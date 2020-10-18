@@ -1,0 +1,753 @@
+AdvisoryNumber,Date,Lat,Long,Wind,Pres,Movement,stormtypeName,Name,Received,Forecaster
+1,"2020-05-16 22:00:00",28.4,-78.6,35,1008,"NNE at 13 MPH","Tropical Depression",One,"2020-05-16 16:42:36",Cangialosi
+1A,"2020-05-17 01:00:00",28.9,-77.9,35,1006,"NE at 14 MPH","Tropical Depression",One,"2020-05-16 19:57:48",Stewart
+2,"2020-05-17 04:00:00",29.4,-77.7,40,1006,"NNE at 13 MPH","Tropical Storm",Arthur,"2020-05-16 23:04:08",Stewart
+2A,"2020-05-17 07:00:00",29.6,-77.7,40,1006,"NNE at 13 MPH","Tropical Storm",Arthur,"2020-05-17 01:39:29",Pasch
+3,"2020-05-17 10:00:00",30,-77.6,40,1006,"NNE at 9 MPH","Tropical Storm",Arthur,"2020-05-17 04:50:51",Pasch
+3A,"2020-05-17 13:00:00",30.3,-77.4,40,1002,"NNE at 9 MPH","Tropical Storm",Arthur,"2020-05-17 07:57:26",Brown
+4,"2020-05-17 16:00:00",30.5,-77.4,45,1002,"NNE at 9 MPH","Tropical Storm",Arthur,"2020-05-17 10:48:38",Brown
+4A,"2020-05-17 19:00:00",31,-77.3,45,1002,"NNE at 9 MPH","Tropical Storm",Arthur,"2020-05-17 13:57:45",Brown
+5A,"2020-05-18 01:00:00",31.8,-77,45,1004,"NNE at 9 MPH","Tropical Storm",Arthur,"2020-05-17 19:57:49",Stewart/Berg
+6,"2020-05-18 04:00:00",32.4,-76.9,45,1003,"NNE at 10 MPH","Tropical Storm",Arthur,"2020-05-17 23:06:45",Stewart
+6A,"2020-05-18 07:00:00",33,-76.7,45,1004,"NNE at 12 MPH","Tropical Storm",Arthur,"2020-05-18 01:54:52",Beven
+7,"2020-05-18 10:00:00",33.5,-76.6,45,1002,"NNE at 14 MPH","Tropical Storm",Arthur,"2020-05-18 04:39:38",Beven
+7A,"2020-05-18 13:00:00",34.5,-75.9,45,1001,"NNE at 15 MPH","Tropical Storm",Arthur,"2020-05-18 08:03:02",Brown
+8,"2020-05-18 16:00:00",35.1,-75.2,50,996,"NNE at 16 MPH","Tropical Storm",Arthur,"2020-05-18 10:45:34",Brown
+8A,"2020-05-18 19:00:00",35.6,-74.7,50,993,"NE at 16 MPH","Tropical Storm",Arthur,"2020-05-18 13:45:28",Brown
+9,"2020-05-18 22:00:00",36.1,-73.9,50,993,"NE at 16 MPH","Tropical Storm",Arthur,"2020-05-18 16:52:00",Brown
+10,"2020-05-19 04:00:00",36.4,-72.4,60,991,"ENE at 15 MPH","Tropical Storm",Arthur,"2020-05-18 23:00:46",Stewart
+11,"2020-05-19 10:00:00",37,-70.6,60,991,"ENE at 15 MPH","Tropical Storm",Arthur,"2020-05-19 04:32:53",Zelinsky
+12,"2020-05-19 16:00:00",36.8,-68.6,60,991,"E at 15 MPH","Post-Tropical Cyclone",Arthur,"2020-05-19 10:51:31",Blake
+1,"2020-05-27 13:30:00",32.7,-79.4,45,1009,"NW at 9 MPH","Tropical Storm",Bertha,"2020-05-27 08:09:25",Brennan
+2,"2020-05-27 16:00:00",33.3,-79.5,50,1005,"N at 15 MPH","Tropical Storm",Bertha,"2020-05-27 10:39:12",Latto/Beven
+2A,"2020-05-27 19:00:00",33.7,-80.2,35,1007,"NNW at 15 MPH","Tropical Depression",Bertha,"2020-05-27 13:52:13",Latto
+3,"2020-05-27 22:00:00",34.4,-80.3,30,1008,"NNW at 15 MPH","Tropical Depression",Bertha,"2020-05-27 16:48:53",Beven
+4,"2020-05-28 04:00:00",36,-80.5,30,1009,"N at 23 MPH","Tropical Depression",Bertha,"2020-05-27 22:45:30",Roth
+6,"2020-05-28 16:00:00",40.8,-80.2,25,1012,"N at 30 MPH","Post-Tropical Cyclone",Bertha,"2020-05-28 20:46:03",Carbin
+1,"2020-06-01 22:00:00",19.6,-91.2,30,1007,"WNW at 7 MPH","Tropical Depression",Three,"2020-06-01 16:54:04",Brown
+1A,"2020-06-02 01:00:00",19.6,-91.6,30,1005,"WNW at 7 MPH","Tropical Depression",Three,"2020-06-01 19:46:07",Beven
+2,"2020-06-02 04:00:00",19.6,-91.9,30,1005,"W at 7 MPH","Tropical Depression",Three,"2020-06-01 22:36:49",Beven
+2A,"2020-06-02 07:00:00",19.6,-92,35,1003,"W at 5 MPH","Tropical Depression",Three,"2020-06-02 02:00:51",Stewart
+3,"2020-06-02 10:00:00",19.6,-92.1,35,1003,"W at 2 MPH","Tropical Depression",Three,"2020-06-02 04:57:16",Stewart
+3A,"2020-06-02 13:00:00",19.6,-92.4,35,1003,"W at 3 MPH","Tropical Depression",Three,"2020-06-02 07:54:25",Pasch
+4,"2020-06-02 16:00:00",19.5,-92.6,35,1005,"W at 3 MPH","Tropical Depression",Three,"2020-06-02 11:15:47",Pasch
+4A,"2020-06-02 19:00:00",19.2,-92.8,40,1004,"SW at 3 MPH","Tropical Storm",Cristobal,"2020-06-02 13:52:17",Pasch
+5,"2020-06-02 22:00:00",19.1,-92.5,40,1004,"S at 3 MPH","Tropical Storm",Cristobal,"2020-06-02 16:48:14",Pasch
+5A,"2020-06-03 01:00:00",19.1,-92.3,45,997,"S at 3 MPH","Tropical Storm",Cristobal,"2020-06-02 20:04:32",Brown/Zelinsky
+6,"2020-06-03 04:00:00",19.1,-92.3,50,996,"S at 1 MPH","Tropical Storm",Cristobal,"2020-06-02 22:46:14",Brown
+9,"2020-06-03 22:00:00",18.3,-91.8,50,995,"SE at 3 MPH","Tropical Storm",Cristobal,"2020-06-03 17:00:54",Pasch
+9A,"2020-06-04 01:00:00",18.3,-91.8,45,995,Stationary,"Tropical Storm",Cristobal,"2020-06-03 19:42:43",Brown
+10,"2020-06-04 04:00:00",18.3,-91.8,45,995,Stationary,"Tropical Storm",Cristobal,"2020-06-03 22:45:34",Brown
+11,"2020-06-04 10:00:00",17.9,-91.3,40,998,"SE at 2 MPH","Tropical Storm",Cristobal,"2020-06-04 04:51:39",Beven
+11A,"2020-06-04 13:00:00",17.8,-91.2,40,998,"SE at 2 MPH","Tropical Storm",Cristobal,"2020-06-04 07:33:33",Pasch
+12,"2020-06-04 16:00:00",17.6,-91,35,998,"ESE at 3 MPH","Tropical Depression",Cristobal,"2020-06-04 10:54:35",Pasch
+13,"2020-06-04 22:00:00",17.5,-90.8,35,999,"ESE at 3 MPH","Tropical Depression",Cristobal,"2020-06-04 16:45:18",Pasch
+14,"2020-06-05 04:00:00",17.8,-90.4,35,1000,"E at 3 MPH","Tropical Depression",Cristobal,"2020-06-04 22:36:18",Cangialosi
+15,"2020-06-05 10:00:00",18.8,-90.1,35,1000,"NNE at 7 MPH","Tropical Depression",Cristobal,"2020-06-05 04:45:51",Zelinsky
+16A,"2020-06-05 19:00:00",20.5,-89.8,40,1000,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-05 13:51:17",Pasch
+17,"2020-06-05 22:00:00",21.4,-89.7,40,1000,"N at 13 MPH","Tropical Storm",Cristobal,"2020-06-05 16:54:33",Pasch/Berg
+17A,"2020-06-06 01:00:00",22.2,-89.9,40,998,"N at 13 MPH","Tropical Storm",Cristobal,"2020-06-05 19:48:29",Cangialosi/Latto
+18,"2020-06-06 04:00:00",22.7,-90.1,45,998,"N at 14 MPH","Tropical Storm",Cristobal,"2020-06-05 22:39:34",Cangialosi/Latto
+19,"2020-06-06 10:00:00",23.8,-90.2,45,997,"N at 14 MPH","Tropical Storm",Cristobal,"2020-06-06 04:45:55",Beven
+19A,"2020-06-06 13:00:00",23.9,-90.2,50,992,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-06 08:03:07",Pasch
+20,"2020-06-06 16:00:00",24.2,-90.1,50,994,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-06 10:51:52",Pasch
+20A,"2020-06-06 19:00:00",24.7,-90.2,50,994,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-06 13:36:57",Pasch
+21,"2020-06-06 22:00:00",25.2,-90.2,50,994,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-06 16:48:41",Pasch
+21A,"2020-06-07 01:00:00",25.7,-90.2,50,993,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-06 19:51:54",Cangialosi/Latto
+22,"2020-06-07 04:00:00",26.2,-90.2,50,993,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-06 22:43:08",Cangialosi/Latto
+22A,"2020-06-07 07:00:00",26.7,-90.1,50,993,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-07 01:54:45",Beven
+23,"2020-06-07 10:00:00",27.3,-90.1,50,993,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-07 04:45:24",Beven
+23A,"2020-06-07 13:00:00",28.2,-89.9,50,994,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-07 07:55:11",Stewart
+24,"2020-06-07 16:00:00",28.7,-90,50,994,"N at 12 MPH","Tropical Storm",Cristobal,"2020-06-07 10:48:30",Stewart
+24A,"2020-06-07 19:00:00",28.8,-89.9,50,994,"N at 5 MPH","Tropical Storm",Cristobal,"2020-06-07 13:56:57",Stewart
+25,"2020-06-07 22:00:00",29.1,-89.9,50,993,"N at 7 MPH","Tropical Storm",Cristobal,"2020-06-07 16:42:04",Stewart
+25A,"2020-06-08 01:00:00",29.6,-89.8,50,993,"N at 7 MPH","Tropical Storm",Cristobal,"2020-06-07 19:57:21",Brown/Latto
+26,"2020-06-08 04:00:00",30.3,-90.2,45,993,"NNW at 10 MPH","Tropical Storm",Cristobal,"2020-06-07 22:51:26",Brown
+26A,"2020-06-08 07:00:00",30.4,-90.5,40,994,"NNW at 10 MPH","Tropical Storm",Cristobal,"2020-06-08 01:45:34",Beven
+27,"2020-06-08 10:00:00",31,-91.2,35,994,"NNW at 10 MPH","Tropical Depression",Cristobal,"2020-06-08 04:54:25",Beven
+27A,"2020-06-08 13:00:00",31.8,-91.6,35,994,"NNW at 10 MPH","Tropical Depression",Cristobal,"2020-06-08 07:48:32",Cangialosi/Blake
+28,"2020-06-08 16:00:00",32.5,-91.8,35,995,"NW at 15 MPH","Tropical Depression",Cristobal,"2020-06-08 10:48:10",Cangialosi
+29,"2020-06-08 22:00:00",34,-92,35,994,"N at 18 MPH","Tropical Depression",Cristobal,"2020-06-08 16:56:57",Roth
+30,"2020-06-09 04:00:00",34.8,-92.4,30,994,"NNW at 17 MPH","Tropical Depression",Cristobal,"2020-06-08 22:46:08",Roth
+35,"2020-06-10 10:00:00",45.8,-88.2,40,983,"NNE at 30 MPH","Post-Tropical Cyclone",Cristobal,"2020-06-10 19:31:21",Lamers
+1,"2020-06-22 22:00:00",38.2,-65.7,35,1009,"ENE at 9 MPH","Subtropical Depression",Our,"2020-06-22 16:41:42",Stewart
+2,"2020-06-23 04:00:00",38.7,-64.6,35,1009,"ENE at 10 MPH","Subtropical Depression",Our,"2020-06-22 22:35:49",Pasch
+4,"2020-06-23 16:00:00",39.5,-62.1,35,1007,"ENE at 13 MPH","Subtropical Depression",Our,"2020-06-23 10:53:41",Berg
+5,"2020-06-23 18:00:00",39.4,-61.7,45,1002,"ENE at 13 MPH","Tropical Storm",Dolly,"2020-06-23 12:41:59",Berg
+6,"2020-06-23 22:00:00",40.1,-61.1,45,1002,"ENE at 12 MPH","Tropical Storm",Dolly,"2020-06-23 16:35:42",Berg
+7,"2020-06-24 04:00:00",40.5,-60.3,40,1004,"ENE at 10 MPH","Tropical Storm",Dolly,"2020-06-23 22:33:01",Pasch
+8,"2020-06-24 10:00:00",41.7,-59,35,1005,"NE at 12 MPH","Tropical Depression",Dolly,"2020-06-24 04:33:11",Cangialosi
+1,"2020-07-04 16:00:00",31.1,-68.7,35,1009,"ENE at 17 MPH","Tropical Depression",Five,"2020-07-04 11:00:00",Zelinsky
+2,"2020-07-04 22:00:00",31.8,-67.3,35,1007,"ENE at 16 MPH","Tropical Depression",Five,"2020-07-04 16:42:08",Zelinsky
+3,"2020-07-05 04:00:00",32.5,-66.3,35,1008,"NE at 18 MPH","Tropical Depression",Five,"2020-07-04 22:42:22",Blake
+4,"2020-07-05 10:00:00",33.3,-64.9,35,1008,"NE at 20 MPH","Tropical Depression",Five,"2020-07-05 04:48:31",Beven
+5,"2020-07-05 16:00:00",34.5,-63,35,1008,"NE at 21 MPH","Tropical Depression",Five,"2020-07-05 10:47:44",Zelinsky
+7,"2020-07-06 04:00:00",37.2,-56.9,40,1008,"NE at 35 MPH","Tropical Storm",Edouard,"2020-07-05 22:45:16",Blake
+9,"2020-07-06 16:00:00",40.8,-50,45,1007,"NE at 37 MPH","Tropical Storm",Edouard,"2020-07-06 10:47:57",Brown
+10,"2020-07-06 22:00:00",42.7,-46,45,1005,"NE at 38 MPH","Post-Tropical Cyclone",Edouard,"2020-07-06 16:45:46",Zelinsky
+1,"2020-07-09 22:00:00",35.5,-74.9,45,1005,"N at 7 MPH","Tropical Storm",Fay,"2020-07-09 16:57:03",Brown
+1A,"2020-07-10 01:00:00",36,-74.8,45,1005,"N at 8 MPH","Tropical Storm",Fay,"2020-07-09 19:42:24",Beven
+2A,"2020-07-10 07:00:00",36.7,-74.9,45,1005,"N at 8 MPH","Tropical Storm",Fay,"2020-07-10 01:45:37",Pasch
+3,"2020-07-10 10:00:00",37.4,-74.8,50,1002,"N at 10 MPH","Tropical Storm",Fay,"2020-07-10 04:47:57",Pasch
+4,"2020-07-10 13:00:00",37.6,-74.7,50,999,"N at 10 MPH","Tropical Storm",Fay,"2020-07-10 08:12:16",Brennan
+5A,"2020-07-10 19:00:00",38.8,-74.5,60,998,"N at 12 MPH","Tropical Storm",Fay,"2020-07-10 13:42:21",Brennan
+6,"2020-07-10 22:00:00",39.5,-74.3,50,998,"N at 14 MPH","Tropical Storm",Fay,"2020-07-10 16:54:02",Brennan
+6A,"2020-07-11 01:00:00",40.1,-74.3,45,1000,"N at 14 MPH","Tropical Storm",Fay,"2020-07-10 19:45:08",Beven
+7A,"2020-07-11 07:00:00",41.5,-74,35,1001,"N at 17 MPH","Tropical Depression",Fay,"2020-07-11 01:42:44",Pasch
+8,"2020-07-11 10:00:00",42.4,-73.9,35,1001,"N at 17 MPH","Post-Tropical Cyclone",Fay,"2020-07-11 04:45:13",Pasch
+1,"2020-07-21 22:00:00",9.8,-40.4,35,1009,"WNW at 8 MPH","Tropical Depression",Seven,"2020-07-21 16:39:54",Beven
+2,"2020-07-22 04:00:00",10,-41.3,35,1008,"WNW at 9 MPH","Tropical Depression",Seven,"2020-07-21 22:45:40",Cangialosi
+3,"2020-07-22 10:00:00",10,-42.4,35,1007,"WNW at 12 MPH","Tropical Depression",Seven,"2020-07-22 04:41:57",Pasch
+4,"2020-07-22 16:00:00",9.9,-43.6,50,1000,"W at 14 MPH","Tropical Storm",Gonzalo,"2020-07-22 10:50:45",Beven
+5,"2020-07-22 22:00:00",9.9,-45,50,1000,"W at 14 MPH","Tropical Storm",Gonzalo,"2020-07-22 16:33:24",Beven
+8,"2020-07-23 16:00:00",9.6,-48.3,65,997,"W at 14 MPH","Tropical Storm",Gonzalo,"2020-07-23 12:52:23",Berg
+8A,"2020-07-23 19:00:00",9.7,-48.8,60,1000,"W at 14 MPH","Tropical Storm",Gonzalo,"2020-07-23 13:38:48",Berg
+9,"2020-07-23 22:00:00",9.8,-49.4,60,1000,"W at 13 MPH","Tropical Storm",Gonzalo,"2020-07-23 16:51:04",Berg
+9A,"2020-07-24 01:00:00",9.7,-49.9,60,1000,"W at 13 MPH","Tropical Storm",Gonzalo,"2020-07-23 19:27:16",Roberts
+10,"2020-07-24 04:00:00",9.9,-50.6,60,1000,"W at 14 MPH","Tropical Storm",Gonzalo,"2020-07-23 22:54:26",Roberts
+10A,"2020-07-24 07:00:00",9.9,-51.2,60,1000,"W at 14 MPH","Tropical Storm",Gonzalo,"2020-07-24 01:45:04",Roberts
+11,"2020-07-24 10:00:00",10,-51.8,60,1000,"W at 14 MPH","Tropical Storm",Gonzalo,"2020-07-24 04:48:00",Roberts
+11A,"2020-07-24 13:00:00",10,-52.8,60,1000,"W at 15 MPH","Tropical Storm",Gonzalo,"2020-07-24 08:06:07",Zelinsky
+12,"2020-07-24 16:00:00",10,-54.2,50,1002,"W at 18 MPH","Tropical Storm",Gonzalo,"2020-07-24 11:05:49",Zelinsky
+12A,"2020-07-24 19:00:00",9.9,-54.8,45,1008,"W at 18 MPH","Tropical Storm",Gonzalo,"2020-07-24 13:51:22",Zelinsky
+13,"2020-07-24 22:00:00",10,-55.6,40,1008,"W at 18 MPH","Tropical Storm",Gonzalo,"2020-07-24 16:47:55",Zelinsky
+13A,"2020-07-25 01:00:00",10,-56.3,40,1008,"W at 18 MPH","Tropical Storm",Gonzalo,"2020-07-24 20:02:59",Brown
+14,"2020-07-25 04:00:00",10,-57.1,40,1009,"W at 17 MPH","Tropical Storm",Gonzalo,"2020-07-24 22:48:33",Brown
+14A,"2020-07-25 07:00:00",10,-57.8,40,1009,"W at 17 MPH","Tropical Storm",Gonzalo,"2020-07-25 01:45:26",Roberts
+15,"2020-07-25 10:00:00",10.1,-58.7,40,1009,"W at 18 MPH","Tropical Storm",Gonzalo,"2020-07-25 04:51:07",Roberts
+15A,"2020-07-25 13:00:00",10.3,-59.8,40,1009,"W at 18 MPH","Tropical Storm",Gonzalo,"2020-07-25 07:36:23",Zelinsky
+16,"2020-07-25 16:00:00",10.5,-60.5,40,1009,"W at 18 MPH","Tropical Storm",Gonzalo,"2020-07-25 10:39:08",Zelinsky
+16A,"2020-07-25 19:00:00",10.8,-61.9,35,1010,"W at 20 MPH","Tropical Depression",Gonzalo,"2020-07-25 13:54:33",Zelinsky
+17,"2020-07-25 22:00:00",11,-63,35,1011,"W at 21 MPH",Remnants,Gonzalo,"2020-07-25 16:51:11",Zelinsky
+3,"2020-07-23 16:00:00",26.3,-90.7,35,1007,"WNW at 9 MPH","Tropical Depression",Eight,"2020-07-23 12:52:28",Beven
+3A,"2020-07-23 19:00:00",26,-90.3,35,1008,"WNW at 7 MPH","Tropical Depression",Eight,"2020-07-23 13:35:51",Beven
+4,"2020-07-23 22:00:00",26.1,-90.7,35,1006,"WNW at 8 MPH","Tropical Depression",Eight,"2020-07-23 16:51:03",Beven
+4A,"2020-07-24 01:00:00",26.1,-91,35,1003,"WNW at 8 MPH","Tropical Depression",Eight,"2020-07-23 20:06:16",Cangialosi
+5...CORREC,"2020-07-24 04:00:00",26.2,-91.4,40,1002,"WNW at 7 MPH","Tropical Storm",Hanna,"2020-07-23 23:09:31",Cangialosi
+5A,"2020-07-24 07:00:00",26.4,-91.8,40,1002,"WNW at 7 MPH","Tropical Storm",Hanna,"2020-07-24 01:45:00",Pasch
+6,"2020-07-24 10:00:00",26.7,-92.4,40,1002,"WNW at 9 MPH","Tropical Storm",Hanna,"2020-07-24 04:44:48",Pasch
+6A,"2020-07-24 13:00:00",27.1,-92.8,40,1001,"WNW at 9 MPH","Tropical Storm",Hanna,"2020-07-24 08:03:16",Stewart
+7,"2020-07-24 16:00:00",27.2,-93.2,45,1000,"WNW at 9 MPH","Tropical Storm",Hanna,"2020-07-24 10:59:56",Stewart
+7A,"2020-07-24 19:00:00",27.3,-93.7,50,999,"WNW at 9 MPH","Tropical Storm",Hanna,"2020-07-24 13:51:21",Stewart
+8,"2020-07-24 22:00:00",27.3,-94.3,50,999,"W at 10 MPH","Tropical Storm",Hanna,"2020-07-24 16:51:27",Stewart
+8A,"2020-07-25 01:00:00",27.3,-94.4,50,998,"W at 10 MPH","Tropical Storm",Hanna,"2020-07-24 19:57:22",Cangialosi
+9,"2020-07-25 04:00:00",27.1,-94.8,65,992,"W at 8 MPH","Tropical Storm",Hanna,"2020-07-24 23:00:23",Cangialosi
+9A,"2020-07-25 07:00:00",27,-95.3,65,991,"W at 8 MPH","Tropical Storm",Hanna,"2020-07-25 01:45:14",Pasch
+10,"2020-07-25 10:00:00",27,-95.8,70,988,"W at 9 MPH","Tropical Storm",Hanna,"2020-07-25 04:42:16",Pasch
+10A,"2020-07-25 13:00:00",27.1,-96,75,982,"W at 9 MPH",Hurricane,Hanna,"2020-07-25 07:54:00",Stewart
+10A...CORR,"2020-07-25 13:00:00",27.1,-96,75,982,"W at 9 MPH",Hurricane,Hanna,"2020-07-25 08:05:47",Stewart
+11,"2020-07-25 16:00:00",27.1,-96.3,80,978,"W at 7 MPH",Hurricane,Hanna,"2020-07-25 10:48:26",Stewart
+11A,"2020-07-25 19:00:00",27,-96.7,80,977,"W at 8 MPH",Hurricane,Hanna,"2020-07-25 14:06:12",Stewart
+12,"2020-07-25 22:00:00",26.8,-97.2,90,973,"WSW at 8 MPH",Hurricane,Hanna,"2020-07-25 17:06:30",Stewart
+12A,"2020-07-26 01:00:00",26.7,-97.5,85,975,"WSW at 8 MPH",Hurricane,Hanna,"2020-07-25 20:00:37",Cangialosi
+13,"2020-07-26 04:00:00",26.6,-98,75,979,"WSW at 9 MPH",Hurricane,Hanna,"2020-07-25 22:45:21",Cangialosi
+13A,"2020-07-26 07:00:00",26.5,-98.5,70,983,"WSW at 9 MPH","Tropical Storm",Hanna,"2020-07-26 02:09:34",Beven
+13A...CORR,"2020-07-26 07:00:00",26.5,-98.5,70,983,"WSW at 9 MPH",Hurricane,Hanna,"2020-07-26 03:09:22",Cangialosi
+14,"2020-07-26 10:00:00",26.3,-98.9,60,988,"WSW at 9 MPH","Tropical Storm",Hanna,"2020-07-26 05:00:23",Beven
+14A,"2020-07-26 13:00:00",26.2,-99.1,50,992,"WSW at 9 MPH","Tropical Storm",Hanna,"2020-07-26 08:06:14",Brown/Zelinsky
+15,"2020-07-26 16:00:00",26.1,-99.7,45,995,"WSW at 9 MPH","Tropical Storm",Hanna,"2020-07-26 10:51:21",Brown
+15A,"2020-07-26 19:00:00",25.9,-100.1,40,1000,"WSW at 9 MPH","Tropical Storm",Hanna,"2020-07-26 13:48:01",Brown
+16,"2020-07-26 22:00:00",25.6,-100.6,35,1002,"WSW at 9 MPH","Tropical Depression",Hanna,"2020-07-26 16:36:13",Brown
+17,"2020-07-27 04:00:00",24.6,-101.7,30,1003,"WSW at 7 MPH","Tropical Depression",Hanna,"2020-07-26 22:51:09",
+18,"2020-07-27 10:00:00",24.1,-102.9,25,1004,"W at 5 MPH","Tropical Depression",Hanna,"2020-07-27 04:42:00",Petersen
+1,"2020-07-28 16:00:00",13.8,-53.7,40,1007,"W at 23 MPH","Potential Tropical Cyclone",Nine,"2020-07-28 10:59:42",Brown
+1A,"2020-07-28 19:00:00",14.1,-54.8,40,1007,"W at 23 MPH","Potential Tropical Cyclone",Nine,"2020-07-28 13:44:43",Brown
+2,"2020-07-28 22:00:00",14.4,-55.9,40,1007,"WNW at 23 MPH","Potential Tropical Cyclone",Nine,"2020-07-28 16:41:39",Brown
+2A,"2020-07-29 01:00:00",14.2,-58.7,40,1007,"WNW at 25 MPH","Potential Tropical Cyclone",Nine,"2020-07-28 19:56:43",Stewart
+3,"2020-07-29 04:00:00",14.6,-59.4,40,1007,"WNW at 25 MPH","Potential Tropical Cyclone",Nine,"2020-07-28 22:56:45",Stewart
+3A,"2020-07-29 07:00:00",14.9,-60.3,45,1006,"WNW at 25 MPH","Potential Tropical Cyclone",Nine,"2020-07-29 01:41:50",Blake
+4,"2020-07-29 10:00:00",15.3,-61.3,45,1005,"WNW at 23 MPH","Potential Tropical Cyclone",Nine,"2020-07-29 04:47:37",Blake
+4A,"2020-07-29 13:00:00",15.1,-62.1,45,1005,"WNW at 23 MPH","Potential Tropical Cyclone",Nine,"2020-07-29 07:45:17",Brown
+5,"2020-07-29 16:00:00",15.8,-63.7,45,1006,"WNW at 23 MPH","Potential Tropical Cyclone",Nine,"2020-07-29 10:53:39",Brown
+5A,"2020-07-29 19:00:00",16.2,-64.7,45,1006,"WNW at 23 MPH","Potential Tropical Cyclone",Nine,"2020-07-29 13:41:47",Brown
+6,"2020-07-29 22:00:00",16.4,-65.6,45,1004,"WNW at 23 MPH","Potential Tropical Cyclone",Nine,"2020-07-29 16:44:39",Brown
+6A,"2020-07-30 01:00:00",16,-66.3,45,1004,"WNW at 18 MPH","Potential Tropical Cyclone",Nine,"2020-07-29 19:38:46",Pasch
+7,"2020-07-30 04:00:00",15.8,-67,50,1004,"WNW at 20 MPH","Tropical Storm",Isaias,"2020-07-29 22:51:09",Pasch
+7A,"2020-07-30 07:00:00",16.7,-67.2,50,1004,"NW at 18 MPH","Tropical Storm",Isaias,"2020-07-30 01:39:15",Blake
+8,"2020-07-30 10:00:00",17.2,-67.9,60,1003,"NW at 21 MPH","Tropical Storm",Isaias,"2020-07-30 04:47:36",Blake
+8A,"2020-07-30 13:00:00",17.6,-68.5,60,1003,"NW at 20 MPH","Tropical Storm",Isaias,"2020-07-30 07:53:43",Brown
+9,"2020-07-30 16:00:00",18.1,-68.9,60,1003,"NW at 20 MPH","Tropical Storm",Isaias,"2020-07-30 10:53:55",Brown
+9A,"2020-07-30 19:00:00",18.9,-69.8,60,1003,"NW at 20 MPH","Tropical Storm",Isaias,"2020-07-30 13:56:51",Brown
+10,"2020-07-30 22:00:00",19.5,-70.6,60,999,"NW at 20 MPH","Tropical Storm",Isaias,"2020-07-30 16:56:47",Brown
+10A,"2020-07-31 01:00:00",19.9,-71.2,60,999,"NW at 20 MPH","Tropical Storm",Isaias,"2020-07-30 19:41:46",Pasch
+11,"2020-07-31 04:00:00",20.5,-71.9,60,999,"NW at 18 MPH","Tropical Storm",Isaias,"2020-07-30 22:35:58",Pasch
+12,"2020-07-31 05:00:00",20.4,-72.2,80,995,"NW at 18 MPH",Hurricane,Isaias,"2020-07-31 00:02:07",Blake
+12A,"2020-07-31 07:00:00",20.6,-72.7,80,992,"NW at 18 MPH",Hurricane,Isaias,"2020-07-31 01:48:16",Blake
+13,"2020-07-31 10:00:00",20.9,-73.3,80,990,"NW at 17 MPH",Hurricane,Isaias,"2020-07-31 04:56:39",Blake
+13A,"2020-07-31 13:00:00",21.3,-73.9,80,990,"NW at 17 MPH",Hurricane,Isaias,"2020-07-31 07:59:44",Stewart
+14,"2020-07-31 16:00:00",21.7,-74.5,75,992,"NW at 16 MPH",Hurricane,Isaias,"2020-07-31 10:50:53",Stewart
+14A,"2020-07-31 19:00:00",22.2,-75.2,75,991,"NW at 16 MPH",Hurricane,Isaias,"2020-07-31 13:53:41",Stewart
+15,"2020-07-31 22:00:00",22.6,-75.7,75,991,"NW at 15 MPH",Hurricane,Isaias,"2020-07-31 16:50:50",Stewart
+15A,"2020-08-01 01:00:00",22.9,-75.9,80,987,"NW at 15 MPH",Hurricane,Isaias,"2020-07-31 19:50:44",Pasch
+16,"2020-08-01 04:00:00",23.3,-76.4,80,987,"NW at 15 MPH",Hurricane,Isaias,"2020-07-31 22:48:26",Pasch
+16A,"2020-08-01 07:00:00",23.5,-76.7,85,988,"NW at 14 MPH",Hurricane,Isaias,"2020-08-01 01:56:50",Beven
+17,"2020-08-01 10:00:00",23.9,-77.1,85,988,"NW at 12 MPH",Hurricane,Isaias,"2020-08-01 04:54:20",Beven
+17A,"2020-08-01 13:00:00",24.3,-77.5,85,987,"NW at 12 MPH",Hurricane,Isaias,"2020-08-01 07:53:48",Stewart
+18,"2020-08-01 16:00:00",24.7,-77.9,80,987,"NW at 12 MPH",Hurricane,Isaias,"2020-08-01 10:50:54",Stewart
+18A,"2020-08-01 19:00:00",24.9,-78.4,75,990,"NW at 12 MPH",Hurricane,Isaias,"2020-08-01 13:41:46",Stewart
+19,"2020-08-01 22:00:00",25.1,-78.7,70,993,"NW at 10 MPH","Tropical Storm",Isaias,"2020-08-01 16:50:59",Stewart
+19A,"2020-08-02 01:00:00",25.3,-78.9,70,993,"NW at 9 MPH","Tropical Storm",Isaias,"2020-08-01 19:45:04",Pasch
+20,"2020-08-02 04:00:00",25.5,-79.1,70,995,"NW at 9 MPH","Tropical Storm",Isaias,"2020-08-01 22:56:49",Pasch
+20A,"2020-08-02 07:00:00",25.8,-79.1,70,995,"NW at 8 MPH","Tropical Storm",Isaias,"2020-08-02 01:54:18",Brown/Berg
+21,"2020-08-02 10:00:00",26.3,-79.5,65,996,"NW at 9 MPH","Tropical Storm",Isaias,"2020-08-02 04:59:44",Brown/Berg
+21A,"2020-08-02 13:00:00",26.5,-79.5,65,996,"NW at 8 MPH","Tropical Storm",Isaias,"2020-08-02 07:59:44",Stewart
+22,"2020-08-02 16:00:00",26.9,-79.6,65,995,"NNW at 8 MPH","Tropical Storm",Isaias,"2020-08-02 10:53:43",Stewart
+22A,"2020-08-02 19:00:00",27.4,-79.7,65,995,"NNW at 9 MPH","Tropical Storm",Isaias,"2020-08-02 13:56:56",Stewart
+23,"2020-08-02 22:00:00",27.8,-79.8,70,994,"NNW at 9 MPH","Tropical Storm",Isaias,"2020-08-02 16:47:53",Stewart
+23A,"2020-08-03 01:00:00",28.2,-79.7,70,993,"NNW at 9 MPH","Tropical Storm",Isaias,"2020-08-02 19:44:47",Pasch
+24,"2020-08-03 04:00:00",28.5,-79.8,70,995,"NNW at 9 MPH","Tropical Storm",Isaias,"2020-08-02 22:44:49",Pasch
+24A,"2020-08-03 07:00:00",29,-79.8,70,995,"NNW at 9 MPH","Tropical Storm",Isaias,"2020-08-03 01:57:04",Brown/Berg
+25,"2020-08-03 10:00:00",29.7,-79.9,70,994,"N at 9 MPH","Tropical Storm",Isaias,"2020-08-03 04:59:39",Brown/Berg
+25A,"2020-08-03 13:00:00",30.2,-80.1,70,994,"N at 13 MPH","Tropical Storm",Isaias,"2020-08-03 07:53:46",Stewart
+26,"2020-08-03 16:00:00",30.7,-80.1,70,998,"N at 13 MPH","Tropical Storm",Isaias,"2020-08-03 10:53:41",Stewart
+26A,"2020-08-03 19:00:00",31.2,-80,70,993,"N at 13 MPH","Tropical Storm",Isaias,"2020-08-03 13:53:54",Stewart
+27,"2020-08-03 22:00:00",32,-79.4,70,993,"NNE at 16 MPH","Tropical Storm",Isaias,"2020-08-03 16:44:45",Stewart
+27A,"2020-08-04 01:00:00",32.8,-79,75,988,"NNE at 16 MPH",Hurricane,Isaias,"2020-08-03 19:47:47",Beven
+28,"2020-08-04 04:00:00",33.8,-78.5,85,988,"NNE at 22 MPH",Hurricane,Isaias,"2020-08-03 22:50:44",Beven
+28A,"2020-08-04 07:00:00",35,-78.1,75,992,"NNE at 23 MPH",Hurricane,Isaias,"2020-08-04 01:57:41",Brown/Berg
+29,"2020-08-04 10:00:00",36.3,-77.5,70,993,"NNE at 28 MPH","Tropical Storm",Isaias,"2020-08-04 04:53:54",Brown/Berg
+29A,"2020-08-04 13:00:00",37.7,-76.8,70,993,"NNE at 33 MPH","Tropical Storm",Isaias,"2020-08-04 07:59:42",Stewart
+30,"2020-08-04 16:00:00",39.1,-76.1,70,993,"NNE at 35 MPH","Tropical Storm",Isaias,"2020-08-04 10:44:34",Stewart
+30A,"2020-08-04 19:00:00",40.9,-75.1,65,994,"NNE at 40 MPH","Tropical Storm",Isaias,"2020-08-04 14:00:03",Stewart/Roberts
+31,"2020-08-04 22:00:00",42.7,-74.2,65,995,"NNE at 40 MPH","Tropical Storm",Isaias,"2020-08-04 16:47:53",Stewart
+31A,"2020-08-05 01:00:00",43.6,-73,50,997,"NNE at 40 MPH","Tropical Storm",Isaias,"2020-08-04 19:53:41",Beven
+32,"2020-08-05 04:00:00",45.3,-72.5,45,1000,"NNE at 38 MPH","Post-Tropical Cyclone",Isaias,"2020-08-04 22:47:49",Beven
+32A,"2020-08-05 07:00:00",46.1,-72.2,40,1000,"NNE at 35 MPH","Post-Tropical Cyclone",Isaias,"2020-08-05 01:54:02",Brown/Berg
+33,"2020-08-05 10:00:00",47.5,-71.8,40,1000,"NNE at 28 MPH","Post-Tropical Cyclone",Isaias,"2020-08-05 04:38:44",Brown
+1,"2020-07-31 20:00:00",15.9,-20,35,1007,"N at 9 MPH","Tropical Depression",Ten,"2020-07-31 16:51:15",Brown
+2,"2020-08-01 02:00:00",17.1,-21.1,35,1007,"NW at 14 MPH","Tropical Depression",Ten,"2020-07-31 22:57:12",Zelinsky
+3,"2020-08-01 08:00:00",17.8,-21.6,35,1008,"NW at 16 MPH","Tropical Depression",Ten,"2020-08-01 04:45:05",Blake
+4,"2020-08-01 14:00:00",18.6,-22.2,30,1009,"NW at 14 MPH","Tropical Depression",Ten,"2020-08-01 10:45:18",Latto
+5,"2020-08-01 20:00:00",19.2,-23.5,30,1009,"NW at 13 MPH","Tropical Depression",Ten,"2020-08-01 16:45:28",Cangialosi
+6,"2020-08-02 02:00:00",19.5,-25,25,1009,"WNW at 16 MPH",Remnants,Ten,"2020-08-01 22:51:20",Zelinsky
+1,"2020-08-11 22:00:00",11.7,-40,35,1007,"W at 16 MPH","Tropical Depression",Eleven,"2020-08-11 17:17:22",Berg
+2,"2020-08-12 04:00:00",12,-41.5,35,1008,"W at 14 MPH","Tropical Depression",Eleven,"2020-08-11 22:32:49",Blake
+3,"2020-08-12 10:00:00",12.2,-42.9,35,1008,"W at 15 MPH","Tropical Depression",Eleven,"2020-08-12 04:50:49",Stewart
+4,"2020-08-12 16:00:00",12.4,-44.2,35,1007,"W at 14 MPH","Tropical Depression",Eleven,"2020-08-12 10:44:35",Beven
+5,"2020-08-12 22:00:00",12.7,-45.7,35,1007,"W at 15 MPH","Tropical Depression",Eleven,"2020-08-12 16:44:43",Beven
+6,"2020-08-13 04:00:00",12.5,-47.1,35,1007,"W at 15 MPH","Tropical Depression",Eleven,"2020-08-12 22:39:00",Roberts
+7,"2020-08-13 10:00:00",12.9,-47.9,35,1007,"WNW at 15 MPH","Tropical Depression",Eleven,"2020-08-13 04:41:37",Pasch
+8,"2020-08-13 16:00:00",13.7,-49.2,45,1005,"WNW at 15 MPH","Tropical Storm",Josephine,"2020-08-13 10:53:51",Beven
+9,"2020-08-13 22:00:00",14.5,-50.6,45,1005,"WNW at 16 MPH","Tropical Storm",Josephine,"2020-08-13 16:35:43",Beven
+10,"2020-08-14 04:00:00",14.8,-52.2,45,1005,"WNW at 17 MPH","Tropical Storm",Josephine,"2020-08-13 22:35:51",Roberts
+11,"2020-08-14 10:00:00",15.3,-53.3,40,1006,"WNW at 17 MPH","Tropical Storm",Josephine,"2020-08-14 04:38:30",Pasch
+12,"2020-08-14 16:00:00",16.1,-54.7,40,1006,"WNW at 16 MPH","Tropical Storm",Josephine,"2020-08-14 10:44:38",Beven
+13,"2020-08-14 22:00:00",17.8,-56.1,40,1004,"WNW at 16 MPH","Tropical Storm",Josephine,"2020-08-14 16:38:40",Beven
+14,"2020-08-15 04:00:00",18.3,-57.4,45,1005,"WNW at 16 MPH","Tropical Storm",Josephine,"2020-08-14 22:38:51",Brown
+15,"2020-08-15 10:00:00",18.9,-58.4,45,1005,"WNW at 15 MPH","Tropical Storm",Josephine,"2020-08-15 04:41:33",Pasch
+16,"2020-08-15 16:00:00",19.1,-60.2,45,1008,"WNW at 16 MPH","Tropical Storm",Josephine,"2020-08-15 10:35:37",Beven
+17,"2020-08-15 22:00:00",20,-61.6,45,1008,"WNW at 17 MPH","Tropical Storm",Josephine,"2020-08-15 16:38:39",Beven
+18,"2020-08-16 04:00:00",20.1,-62.6,45,1008,"WNW at 14 MPH","Tropical Storm",Josephine,"2020-08-15 22:35:52",Stewart
+19,"2020-08-16 10:00:00",20.3,-64,40,1009,"WNW at 15 MPH","Tropical Storm",Josephine,"2020-08-16 04:53:30",Berg
+20,"2020-08-16 16:00:00",20.4,-65,35,1009,"WNW at 13 MPH","Tropical Depression",Josephine,"2020-08-16 10:56:49",Brown
+21,"2020-08-16 22:00:00",20.9,-65.8,35,1010,"WNW at 12 MPH",Remnants,Josephine,"2020-08-16 16:36:00",Brown
+1,"2020-08-14 22:00:00",37.7,-71.7,40,1008,"ENE at 17 MPH","Tropical Storm",Kyle,"2020-08-14 16:42:33",Zelinsky
+2,"2020-08-15 04:00:00",38.3,-70,45,1006,"ENE at 16 MPH","Tropical Storm",Kyle,"2020-08-14 22:39:10",Cangialosi
+3,"2020-08-15 10:00:00",38.7,-68,45,1002,"ENE at 21 MPH","Tropical Storm",Kyle,"2020-08-15 04:38:57",Latto
+4,"2020-08-15 16:00:00",39,-65.6,50,1000,"ENE at 21 MPH","Tropical Storm",Kyle,"2020-08-15 10:51:00",Zelinsky
+5,"2020-08-15 22:00:00",39.4,-63.2,50,1000,"ENE at 22 MPH","Tropical Storm",Kyle,"2020-08-15 16:39:30",Zelinsky
+6,"2020-08-16 04:00:00",40,-60.4,45,1002,"ENE at 20 MPH","Tropical Storm",Kyle,"2020-08-15 22:42:39",Stewart
+7,"2020-08-16 10:00:00",40,-58.9,40,1003,"E at 20 MPH","Post-Tropical Cyclone",Kyle,"2020-08-16 05:03:34",Berg
+1,"2020-08-20 04:00:00",14.6,-47.9,35,1008,"WNW at 20 MPH","Tropical Depression",Thirteen,"2020-08-19 22:54:47",Cangialosi
+1A,"2020-08-20 07:00:00",15.1,-49,35,1008,"WNW at 20 MPH","Tropical Depression",Thirteen,"2020-08-20 01:51:32",Beven
+2,"2020-08-20 10:00:00",15.2,-49.8,35,1008,"WNW at 21 MPH","Tropical Depression",Thirteen,"2020-08-20 05:03:25",Beven
+2A,"2020-08-20 13:00:00",15.4,-50.9,35,1008,"WNW at 21 MPH","Tropical Depression",Thirteen,"2020-08-20 07:56:56",Brown
+3,"2020-08-20 16:00:00",16,-52,35,1008,"WNW at 21 MPH","Tropical Depression",Thirteen,"2020-08-20 10:57:14",Brown
+3A,"2020-08-20 19:00:00",16,-52.8,35,1008,"WNW at 21 MPH","Tropical Depression",Thirteen,"2020-08-20 14:14:49",Brown
+4,"2020-08-20 22:00:00",16.7,-53.9,35,1008,"WNW at 21 MPH","Tropical Depression",Thirteen,"2020-08-20 16:57:32",Brown
+4A,"2020-08-21 01:00:00",17,-55.5,35,1009,"WNW at 21 MPH","Tropical Depression",Thirteen,"2020-08-20 19:50:54",Blake
+5,"2020-08-21 04:00:00",17.3,-56.4,35,1008,"WNW at 22 MPH","Tropical Depression",Thirteen,"2020-08-20 23:00:25",Blake
+5A,"2020-08-21 07:00:00",17.5,-57.4,35,1008,"WNW at 22 MPH","Tropical Depression",Thirteen,"2020-08-21 01:45:45",Beven
+6,"2020-08-21 10:00:00",17.8,-58.5,35,1008,"WNW at 21 MPH","Tropical Depression",Thirteen,"2020-08-21 04:54:29",Beven
+6A,"2020-08-21 13:00:00",17.9,-59.2,35,1008,"WNW at 21 MPH","Tropical Depression",Thirteen,"2020-08-21 07:45:23",Pasch
+7,"2020-08-21 16:00:00",17,-60.2,45,1007,"W at 18 MPH","Tropical Storm",Laura,"2020-08-21 11:03:37",Pasch
+7A,"2020-08-21 19:00:00",17,-60.8,45,1007,"W at 18 MPH","Tropical Storm",Laura,"2020-08-21 13:45:05",Pasch
+8,"2020-08-21 22:00:00",17.1,-61.2,45,1007,"W at 17 MPH","Tropical Storm",Laura,"2020-08-21 17:03:38",Pasch
+8A,"2020-08-22 01:00:00",16.8,-62.6,45,1007,"W at 17 MPH","Tropical Storm",Laura,"2020-08-21 20:09:18",Cangialosi
+9,"2020-08-22 04:00:00",17,-63.5,45,1008,"WNW at 18 MPH","Tropical Storm",Laura,"2020-08-21 22:54:37",Cangialosi
+9A,"2020-08-22 07:00:00",17.3,-64.4,45,1008,"WNW at 18 MPH","Tropical Storm",Laura,"2020-08-22 02:09:25",Beven
+10,"2020-08-22 10:00:00",17.6,-65.5,40,1007,"W at 21 MPH","Tropical Storm",Laura,"2020-08-22 05:00:04",Beven
+10A,"2020-08-22 13:00:00",17.7,-66,40,1006,"W at 21 MPH","Tropical Storm",Laura,"2020-08-22 07:51:13",Pasch
+11,"2020-08-22 16:00:00",17.8,-66.8,40,1006,"W at 18 MPH","Tropical Storm",Laura,"2020-08-22 10:54:02",Pasch
+11A,"2020-08-22 19:00:00",17.9,-67.5,50,1004,"W at 18 MPH","Tropical Storm",Laura,"2020-08-22 14:06:05",Pasch
+12,"2020-08-22 22:00:00",18,-68.1,50,1004,"W at 18 MPH","Tropical Storm",Laura,"2020-08-22 17:03:35",Pasch
+12A,"2020-08-23 01:00:00",18.1,-68.7,50,1004,"W at 18 MPH","Tropical Storm",Laura,"2020-08-22 19:51:01",Cangialosi
+13,"2020-08-23 04:00:00",18.3,-69.6,50,1003,"WNW at 16 MPH","Tropical Storm",Laura,"2020-08-22 22:51:10",Cangialosi
+13A,"2020-08-23 07:00:00",18.6,-70.1,50,1004,"WNW at 16 MPH","Tropical Storm",Laura,"2020-08-23 02:00:47",Stewart
+14,"2020-08-23 10:00:00",18.8,-70.9,45,1005,"WNW at 18 MPH","Tropical Storm",Laura,"2020-08-23 05:08:48",Stewart
+14A,"2020-08-23 13:00:00",19.1,-72.1,45,1005,"WNW at 18 MPH","Tropical Storm",Laura,"2020-08-23 07:54:22",Brown
+15,"2020-08-23 16:00:00",19.2,-73.2,50,1004,"WNW at 21 MPH","Tropical Storm",Laura,"2020-08-23 11:03:16",Brown
+15A,"2020-08-23 19:00:00",19.4,-74.3,50,1004,"WNW at 21 MPH","Tropical Storm",Laura,"2020-08-23 13:42:26",Brown
+16,"2020-08-23 22:00:00",19.5,-75.2,60,1000,"WNW at 21 MPH","Tropical Storm",Laura,"2020-08-23 16:56:47",Brown
+16A,"2020-08-24 01:00:00",20,-75.6,60,1000,"WNW at 21 MPH","Tropical Storm",Laura,"2020-08-23 19:54:41",Cangialosi
+17,"2020-08-24 04:00:00",20.1,-76.6,65,1000,"WNW at 21 MPH","Tropical Storm",Laura,"2020-08-23 22:48:26",Cangialosi
+17A,"2020-08-24 07:00:00",20.5,-78,65,1000,"WNW at 21 MPH","Tropical Storm",Laura,"2020-08-24 01:54:36",Stewart
+18,"2020-08-24 10:00:00",20.8,-78.9,65,1000,"WNW at 21 MPH","Tropical Storm",Laura,"2020-08-24 04:59:31",Stewart
+18A,"2020-08-24 13:00:00",20.9,-79.7,65,1000,"WNW at 21 MPH","Tropical Storm",Laura,"2020-08-24 08:03:08",Brown
+19,"2020-08-24 16:00:00",21.2,-80.6,60,1002,"WNW at 20 MPH","Tropical Storm",Laura,"2020-08-24 10:47:50",Brown
+19A,"2020-08-24 19:00:00",21.4,-81.6,60,1001,"WNW at 20 MPH","Tropical Storm",Laura,"2020-08-24 13:51:17",Brown
+20,"2020-08-24 22:00:00",21.7,-82.2,60,1001,"WNW at 20 MPH","Tropical Storm",Laura,"2020-08-24 16:48:13",Brown
+20A,"2020-08-25 01:00:00",22.1,-82.8,65,998,"WNW at 20 MPH","Tropical Storm",Laura,"2020-08-24 19:57:03",Cangialosi
+21,"2020-08-25 04:00:00",22.7,-84,65,996,"WNW at 20 MPH","Tropical Storm",Laura,"2020-08-24 22:51:11",Cangialosi
+21A,"2020-08-25 07:00:00",22.6,-85,65,995,"WNW at 20 MPH","Tropical Storm",Laura,"2020-08-25 02:06:16",Blake
+22,"2020-08-25 10:00:00",22.9,-85.7,65,995,"WNW at 17 MPH","Tropical Storm",Laura,"2020-08-25 05:14:38",Blake
+22A,"2020-08-25 13:00:00",23.4,-86.4,70,991,"WNW at 17 MPH","Tropical Storm",Laura,"2020-08-25 08:06:15",Beven
+23,"2020-08-25 16:00:00",23.7,-87,75,990,"WNW at 16 MPH",Hurricane,Laura,"2020-08-25 11:12:31",Beven
+23A,"2020-08-25 19:00:00",24.3,-87.6,75,990,"WNW at 16 MPH",Hurricane,Laura,"2020-08-25 13:48:09",Beven
+24,"2020-08-25 22:00:00",24.7,-88.3,80,990,"WNW at 17 MPH",Hurricane,Laura,"2020-08-25 16:42:17",Beven
+24A,"2020-08-26 01:00:00",25,-89,85,983,"WNW at 17 MPH",Hurricane,Laura,"2020-08-25 19:54:11",Pasch
+25,"2020-08-26 04:00:00",25.2,-89.5,90,978,"WNW at 17 MPH",Hurricane,Laura,"2020-08-25 22:57:40",Pasch
+25A,"2020-08-26 07:00:00",25.6,-90.2,105,978,"WNW at 17 MPH",Hurricane,Laura,"2020-08-26 02:03:03",Blake
+26,"2020-08-26 10:00:00",26.1,-90.7,110,973,"NW at 15 MPH",Hurricane,Laura,"2020-08-26 05:03:30",Blake
+26A,"2020-08-26 13:00:00",26.4,-91.4,115,963,"NW at 15 MPH",Hurricane,Laura,"2020-08-26 08:00:35",Brown
+27,"2020-08-26 16:00:00",27,-92,125,956,"NW at 16 MPH",Hurricane,Laura,"2020-08-26 11:03:30",Brown
+27A,"2020-08-26 19:00:00",27.3,-92.5,140,952,"NW at 16 MPH",Hurricane,Laura,"2020-08-26 13:54:45",Brown
+28,"2020-08-26 22:00:00",27.9,-92.8,145,947,"NW at 15 MPH",Hurricane,Laura,"2020-08-26 16:57:21",Brown
+28A,"2020-08-27 01:00:00",28.4,-92.9,150,940,"NNW at 15 MPH",Hurricane,Laura,"2020-08-26 19:45:32",Pasch
+29,"2020-08-27 04:00:00",29,-93.2,150,939,"NNW at 15 MPH",Hurricane,Laura,"2020-08-26 23:02:58",Pasch
+29A,"2020-08-27 07:00:00",29.8,-93.3,150,938,"N at 15 MPH",Hurricane,Laura,"2020-08-27 02:00:47",Cangialosi/Blake/Zelinsky
+30,"2020-08-27 10:00:00",30.5,-93.4,120,948,"N at 15 MPH",Hurricane,Laura,"2020-08-27 04:48:32",Cangialosi/Zelinsky/Blake
+30A,"2020-08-27 13:00:00",31.2,-93.3,100,970,"N at 15 MPH",Hurricane,Laura,"2020-08-27 08:15:05",Brown
+31,"2020-08-27 16:00:00",31.9,-93.1,75,982,"N at 16 MPH",Hurricane,Laura,"2020-08-27 11:06:38",Brown
+31A,"2020-08-27 19:00:00",32.9,-92.8,65,988,"N at 15 MPH","Tropical Storm",Laura,"2020-08-27 14:03:40",Brown
+32,"2020-08-27 22:00:00",33.4,-92.8,50,991,"NNE at 15 MPH","Tropical Storm",Laura,"2020-08-27 16:54:25",Brown
+32A,"2020-08-28 01:00:00",34.2,-92.4,40,992,"NNE at 15 MPH","Tropical Storm",Laura,"2020-08-27 19:57:43",Pasch
+33,"2020-08-28 04:00:00",35.1,-92,35,993,"NNE at 15 MPH","Tropical Depression",Laura,"2020-08-27 22:45:32",Pasch
+34,"2020-08-28 10:00:00",35.8,-91.5,30,998,"NE at 13 MPH","Tropical Depression",Laura,"2020-08-28 04:57:21",Roth
+35,"2020-08-28 16:00:00",36.6,-90.5,30,1001,"ENE at 20 MPH","Tropical Depression",Laura,"2020-08-28 11:09:33",
+36...CORRE,"2020-08-28 22:00:00",37.2,-88.9,30,1003,"ENE at 21 MPH","Tropical Depression",Laura,"2020-08-28 17:12:42",
+37,"2020-08-29 04:00:00",37.7,-86.9,30,1003,"E at 24 MPH","Tropical Depression",Laura,"2020-08-28 23:03:44",Wpc
+38,"2020-08-29 10:00:00",38.4,-83.3,25,1004,"E at 28 MPH","Post-Tropical Cyclone",Laura,"2020-08-29 04:45:33",Roth
+1,"2020-08-20 16:00:00",15.1,-79.7,35,1007,"W at 21 MPH","Tropical Depression",Fourteen,"2020-08-20 10:56:48",Berg
+1A,"2020-08-20 19:00:00",15.4,-80,35,1007,"W at 18 MPH","Tropical Depression",Fourteen,"2020-08-20 13:35:42",Berg
+2,"2020-08-20 22:00:00",14.3,-81,35,1007,"W at 18 MPH","Tropical Depression",Fourteen,"2020-08-20 16:59:41",Berg
+2A,"2020-08-21 01:00:00",14.7,-81.7,35,1007,"W at 17 MPH","Tropical Depression",Fourteen,"2020-08-20 19:47:42",Stewart
+3,"2020-08-21 04:00:00",14.9,-82.2,35,1007,"WNW at 14 MPH","Tropical Depression",Fourteen,"2020-08-20 22:56:51",Stewart
+3A,"2020-08-21 07:00:00",15,-82.7,35,1007,"WNW at 14 MPH","Tropical Depression",Fourteen,"2020-08-21 01:44:49",Roberts
+4,"2020-08-21 10:00:00",15.4,-83.1,35,1007,"WNW at 12 MPH","Tropical Depression",Fourteen,"2020-08-21 04:44:29",Roberts
+4A,"2020-08-21 13:00:00",16.2,-84.2,35,1008,"WNW at 12 MPH","Tropical Depression",Fourteen,"2020-08-21 07:41:32",Berg
+5,"2020-08-21 16:00:00",16.6,-84.1,35,1008,"NW at 14 MPH","Tropical Depression",Fourteen,"2020-08-21 10:59:42",Berg
+5A,"2020-08-21 19:00:00",17.4,-84.1,35,1008,"NW at 14 MPH","Tropical Depression",Fourteen,"2020-08-21 13:38:39",Berg
+6,"2020-08-21 22:00:00",17.7,-84.3,35,1008,"NW at 13 MPH","Tropical Depression",Fourteen,"2020-08-21 16:44:44",Berg
+6A,"2020-08-22 01:00:00",18.3,-84.7,35,1009,"NW at 13 MPH","Tropical Depression",Fourteen,"2020-08-21 19:56:44",Zelinsky
+7,"2020-08-22 04:00:00",18.7,-84.9,40,1003,"NNW at 13 MPH","Tropical Storm",Marco,"2020-08-21 22:53:56",Zelinsky
+7A,"2020-08-22 07:00:00",19.1,-85.2,40,1005,"NNW at 13 MPH","Tropical Storm",Marco,"2020-08-22 01:59:47",Roberts
+8,"2020-08-22 10:00:00",19.6,-85.4,45,1005,"NNW at 12 MPH","Tropical Storm",Marco,"2020-08-22 04:50:38",Roberts
+8A,"2020-08-22 13:00:00",20.2,-85.2,50,1002,"NNW at 12 MPH","Tropical Storm",Marco,"2020-08-22 07:47:32",Berg
+9,"2020-08-22 16:00:00",20.9,-85.3,65,992,"NNW at 12 MPH","Tropical Storm",Marco,"2020-08-22 10:56:35",Berg
+9A,"2020-08-22 19:00:00",21.4,-85.5,65,992,"NNW at 12 MPH","Tropical Storm",Marco,"2020-08-22 13:39:14",Berg
+10,"2020-08-22 22:00:00",21.9,-85.7,65,992,"NNW at 13 MPH","Tropical Storm",Marco,"2020-08-22 16:56:40",Berg
+10A,"2020-08-23 01:00:00",22.3,-86,65,994,"NNW at 13 MPH","Tropical Storm",Marco,"2020-08-22 19:50:43",Zelinsky
+11,"2020-08-23 04:00:00",22.8,-86.3,65,994,"NNW at 13 MPH","Tropical Storm",Marco,"2020-08-22 22:47:46",Zelinsky
+11A,"2020-08-23 07:00:00",23.1,-86.6,70,994,"NNW at 13 MPH","Tropical Storm",Marco,"2020-08-23 01:50:52",Blake
+12,"2020-08-23 10:00:00",23.7,-87,70,994,"NNW at 13 MPH","Tropical Storm",Marco,"2020-08-23 04:59:46",Blake
+12A,"2020-08-23 13:00:00",24.2,-87.1,70,993,"NNW at 13 MPH","Tropical Storm",Marco,"2020-08-23 07:56:31",Latto
+13,"2020-08-23 16:00:00",24.7,-87.3,70,993,"NNW at 14 MPH","Tropical Storm",Marco,"2020-08-23 10:59:42",Latto
+13A,"2020-08-23 19:00:00",25.3,-87.4,75,992,"NNW at 14 MPH",Hurricane,Marco,"2020-08-23 13:41:42",Latto
+14,"2020-08-23 22:00:00",25.8,-87.8,75,991,"NNW at 13 MPH",Hurricane,Marco,"2020-08-23 16:56:45",Latto
+14A,"2020-08-24 01:00:00",26.4,-87.6,75,991,"NNW at 13 MPH",Hurricane,Marco,"2020-08-23 19:59:42",Zelinsky
+15,"2020-08-24 04:00:00",26.8,-87.6,70,1000,"NNW at 12 MPH","Tropical Storm",Marco,"2020-08-23 22:53:56",Zelinsky
+15A,"2020-08-24 07:00:00",27.2,-87.9,65,1002,"NNW at 12 MPH","Tropical Storm",Marco,"2020-08-24 01:53:54",Blake
+16,"2020-08-24 10:00:00",27.6,-88.2,60,1003,"NW at 10 MPH","Tropical Storm",Marco,"2020-08-24 04:59:31",Blake
+16A,"2020-08-24 13:00:00",28.1,-88.4,50,1005,"NW at 10 MPH","Tropical Storm",Marco,"2020-08-24 07:56:31",Latto
+17,"2020-08-24 16:00:00",28.5,-88.5,50,1006,"NNW at 8 MPH","Tropical Storm",Marco,"2020-08-24 10:44:36",Latto
+18,"2020-08-24 19:00:00",28.7,-88.6,40,1008,"NW at 6 MPH","Tropical Storm",Marco,"2020-08-24 13:56:40",Latto
+19,"2020-08-24 22:00:00",29,-88.9,40,1008,"NW at 7 MPH","Tropical Storm",Marco,"2020-08-24 16:47:41",Latto
+20,"2020-08-25 04:00:00",29,-89.8,35,1007,"W at 9 MPH","Tropical Depression",Marco,"2020-08-24 22:32:56",Zelinsky
+21,"2020-08-25 10:00:00",28.8,-91.2,30,1008,"W at 10 MPH","Post-Tropical Cyclone",Marco,"2020-08-25 04:41:42",Stewart
+1,"2020-08-31 22:00:00",32.6,-76.5,35,1009,"NE at 12 MPH","Tropical Depression",Fifteen,"2020-08-31 16:52:01",Blake
+2,"2020-09-01 04:00:00",33.2,-75.7,35,1008,"NE at 14 MPH","Tropical Depression",Fifteen,"2020-08-31 22:48:36",Latto
+3,"2020-09-01 10:00:00",34.1,-74.4,35,1008,"NE at 13 MPH","Tropical Depression",Fifteen,"2020-09-01 04:42:27",Berg
+4,"2020-09-01 16:00:00",34.7,-73.1,35,1008,"ENE at 14 MPH","Tropical Depression",Fifteen,"2020-09-01 10:45:54",Blake
+5,"2020-09-01 22:00:00",35.3,-71.5,40,1007,"ENE at 15 MPH","Tropical Storm",Omar,"2020-09-01 16:57:36",Blake
+6,"2020-09-02 04:00:00",35.8,-70,40,1003,"ENE at 14 MPH","Tropical Storm",Omar,"2020-09-01 22:42:19",Latto
+7,"2020-09-02 10:00:00",36.2,-68.7,40,1003,"ENE at 14 MPH","Tropical Storm",Omar,"2020-09-02 04:57:01",Berg
+8,"2020-09-02 16:00:00",36.2,-67.4,40,1003,"E at 13 MPH","Tropical Storm",Omar,"2020-09-02 11:03:10",Roberts
+10,"2020-09-03 04:00:00",36.1,-64.1,35,1005,"E at 13 MPH","Tropical Depression",Omar,"2020-09-02 22:39:28",Latto
+11,"2020-09-03 10:00:00",36.3,-62.4,35,1005,"E at 14 MPH","Tropical Depression",Omar,"2020-09-03 05:00:26",Berg
+12,"2020-09-03 16:00:00",35.9,-61.1,35,1005,"E at 13 MPH","Tropical Depression",Omar,"2020-09-03 10:47:40",Roberts
+13,"2020-09-03 22:00:00",35.4,-60.1,35,1005,"ESE at 10 MPH","Tropical Depression",Omar,"2020-09-03 16:42:18",Roberts
+14,"2020-09-04 04:00:00",35.2,-59.1,30,1006,"ESE at 10 MPH","Tropical Depression",Omar,"2020-09-03 22:45:11",Latto
+15,"2020-09-04 10:00:00",35.3,-58.5,30,1006,"E at 7 MPH","Tropical Depression",Omar,"2020-09-04 04:45:10",Pasch
+16,"2020-09-04 16:00:00",35.2,-57.8,35,1006,"E at 6 MPH","Tropical Depression",Omar,"2020-09-04 10:57:14",Zelinsky
+17,"2020-09-04 22:00:00",35.3,-57.3,35,1006,"E at 6 MPH","Tropical Depression",Omar,"2020-09-04 16:47:51",Cangialosi
+18,"2020-09-05 04:00:00",35.6,-57.3,35,1007,"ENE at 5 MPH","Tropical Depression",Omar,"2020-09-04 22:45:10",Beven
+19,"2020-09-05 10:00:00",36.2,-57.1,35,1008,"NNE at 7 MPH","Tropical Depression",Omar,"2020-09-05 04:44:55",Pasch
+20,"2020-09-05 16:00:00",37.4,-57.3,35,1010,"N at 10 MPH","Tropical Depression",Omar,"2020-09-05 10:44:43",Cangialosi
+21,"2020-09-05 22:00:00",38.4,-56.9,35,1011,"N at 10 MPH","Post-Tropical Cyclone",Omar,"2020-09-05 16:45:43",Cangialosi
+1,"2020-09-01 16:00:00",16.1,-77.5,40,1005,"W at 18 MPH","Potential Tropical Cyclone",Sixteen,"2020-09-01 11:02:47",Stewart
+2,"2020-09-01 18:00:00",16.6,-77.9,50,1004,"W at 16 MPH","Tropical Storm",Nana,"2020-09-01 12:50:43",Stewart/Blake
+2A,"2020-09-01 19:00:00",16.7,-78.4,50,1002,"W at 18 MPH","Tropical Storm",Nana,"2020-09-01 13:54:31",Stewart
+3,"2020-09-01 22:00:00",16.8,-79.3,50,1002,"W at 18 MPH","Tropical Storm",Nana,"2020-09-01 16:53:49",Stewart
+3A,"2020-09-02 01:00:00",16.9,-80.1,50,1002,"W at 18 MPH","Tropical Storm",Nana,"2020-09-01 19:59:44",Brown
+4,"2020-09-02 04:00:00",17,-80.9,60,999,"W at 18 MPH","Tropical Storm",Nana,"2020-09-01 22:38:45",Brown
+4A,"2020-09-02 07:00:00",17,-81.8,60,1000,"W at 18 MPH","Tropical Storm",Nana,"2020-09-02 01:41:56",Pasch
+5,"2020-09-02 10:00:00",17,-82.7,60,997,"W at 18 MPH","Tropical Storm",Nana,"2020-09-02 04:42:19",Pasch
+5A,"2020-09-02 13:00:00",17.1,-83.7,60,996,"W at 18 MPH","Tropical Storm",Nana,"2020-09-02 07:47:46",Beven
+6,"2020-09-02 16:00:00",17.1,-84.6,60,998,"W at 17 MPH","Tropical Storm",Nana,"2020-09-02 10:47:37",Beven
+6A,"2020-09-02 19:00:00",17.1,-85.1,60,999,"W at 16 MPH","Tropical Storm",Nana,"2020-09-02 13:44:47",Beven
+7,"2020-09-02 22:00:00",17,-85.9,60,999,"W at 15 MPH","Tropical Storm",Nana,"2020-09-02 16:38:43",Beven
+7A,"2020-09-03 01:00:00",17,-86.8,60,994,"W at 15 MPH","Tropical Storm",Nana,"2020-09-02 19:50:45",Brown
+8,"2020-09-03 04:00:00",17,-87.5,75,994,"W at 16 MPH",Hurricane,Nana,"2020-09-02 22:53:56",Brown
+8A,"2020-09-03 07:00:00",16.8,-88.3,75,995,"WSW at 16 MPH",Hurricane,Nana,"2020-09-03 01:56:51",Brown
+9A,"2020-09-03 13:00:00",16.6,-89.7,60,1000,"WSW at 15 MPH","Tropical Storm",Nana,"2020-09-03 07:53:43",Beven
+10,"2020-09-03 16:00:00",16.4,-90.3,45,1004,"W at 15 MPH","Tropical Storm",Nana,"2020-09-03 10:35:40",Beven
+10A,"2020-09-03 19:00:00",16.3,-90.6,40,1005,"W at 14 MPH","Tropical Storm",Nana,"2020-09-03 13:44:39",Beven
+11,"2020-09-03 22:00:00",16,-91.1,35,1006,"WSW at 14 MPH","Tropical Depression",Nana,"2020-09-03 16:42:39",Beven
+12,"2020-09-04 04:00:00",15.6,-92,30,1007,"WSW at 14 MPH",Remnants,Nana,"2020-09-03 22:42:02",Brown
+1,"2020-09-07 04:00:00",17,-41.5,35,1006,"W at 5 MPH","Tropical Depression",Seventeen,"2020-09-06 22:45:34",Stewart
+2,"2020-09-07 10:00:00",17.3,-42.1,35,1006,"WNW at 6 MPH","Tropical Depression",Seventeen,"2020-09-07 04:50:42",Latto
+3,"2020-09-07 16:00:00",17.2,-42.2,40,1005,"WNW at 3 MPH","Tropical Storm",Paulette,"2020-09-07 10:48:33",Zelinsky
+4,"2020-09-07 22:00:00",17.5,-42.4,40,1005,"NW at 3 MPH","Tropical Storm",Paulette,"2020-09-07 16:36:29",Zelinsky
+5,"2020-09-08 04:00:00",17.8,-42.5,45,1004,"NNW at 5 MPH","Tropical Storm",Paulette,"2020-09-07 22:33:35",Blake
+6,"2020-09-08 10:00:00",18.1,-42.8,50,1000,"NW at 6 MPH","Tropical Storm",Paulette,"2020-09-08 04:36:11",Roberts
+7,"2020-09-08 16:00:00",18.4,-43.3,65,995,"NW at 6 MPH","Tropical Storm",Paulette,"2020-09-08 10:39:30",Zelinsky
+8,"2020-09-08 22:00:00",18.7,-44.3,65,995,"NW at 8 MPH","Tropical Storm",Paulette,"2020-09-08 16:39:32",Zelinsky
+9,"2020-09-09 04:00:00",19.2,-45,60,997,"NW at 9 MPH","Tropical Storm",Paulette,"2020-09-08 22:57:14",Blake
+10,"2020-09-09 10:00:00",19.2,-45.6,60,997,"W at 8 MPH","Tropical Storm",Paulette,"2020-09-09 04:45:35",Roberts
+11,"2020-09-09 16:00:00",20,-46.5,60,996,"WNW at 9 MPH","Tropical Storm",Paulette,"2020-09-09 11:18:19",Berg
+12,"2020-09-09 22:00:00",20.5,-47.4,60,996,"WNW at 10 MPH","Tropical Storm",Paulette,"2020-09-09 16:33:33",Berg
+13,"2020-09-10 04:00:00",20.9,-48.1,60,996,"WNW at 10 MPH","Tropical Storm",Paulette,"2020-09-09 22:42:37",Blake
+14,"2020-09-10 10:00:00",20.9,-49,60,996,"WNW at 10 MPH","Tropical Storm",Paulette,"2020-09-10 04:54:04",Roberts
+15,"2020-09-10 16:00:00",21.5,-49.1,50,998,"WNW at 10 MPH","Tropical Storm",Paulette,"2020-09-10 10:53:57",Berg
+16,"2020-09-10 22:00:00",22.1,-50.1,50,997,"WNW at 9 MPH","Tropical Storm",Paulette,"2020-09-10 16:36:30",Berg
+17,"2020-09-11 04:00:00",22.7,-50.9,65,991,"NW at 10 MPH","Tropical Storm",Paulette,"2020-09-10 22:54:04",Latto
+18,"2020-09-11 10:00:00",23.1,-51.7,65,991,"WNW at 10 MPH","Tropical Storm",Paulette,"2020-09-11 04:51:24",Beven
+19,"2020-09-11 16:00:00",23.6,-52.2,65,990,"NW at 10 MPH","Tropical Storm",Paulette,"2020-09-11 11:00:21",Berg
+20,"2020-09-11 22:00:00",24.6,-53.7,65,989,"NW at 13 MPH","Tropical Storm",Paulette,"2020-09-11 17:00:14",Berg
+21,"2020-09-12 04:00:00",25.8,-54.8,70,987,"NW at 16 MPH","Tropical Storm",Paulette,"2020-09-11 23:03:18",Zelinsky
+21A,"2020-09-12 07:00:00",26.4,-55.5,70,987,"NW at 16 MPH","Tropical Storm",Paulette,"2020-09-12 01:45:36",Roberts/Brown
+22,"2020-09-12 10:00:00",26.8,-56.1,70,987,"NW at 16 MPH","Tropical Storm",Paulette,"2020-09-12 04:57:17",Roberts
+22A,"2020-09-12 13:00:00",27.2,-56.8,70,987,"NW at 16 MPH","Tropical Storm",Paulette,"2020-09-12 07:57:37",Berg
+23,"2020-09-12 16:00:00",27.5,-57.2,70,987,"NW at 15 MPH","Tropical Storm",Paulette,"2020-09-12 10:57:28",Berg
+23A,"2020-09-12 19:00:00",28,-57.8,70,987,"NW at 15 MPH","Tropical Storm",Paulette,"2020-09-12 13:51:28",Berg
+24,"2020-09-12 22:00:00",28.4,-58.5,70,987,"NW at 15 MPH","Tropical Storm",Paulette,"2020-09-12 16:51:30",Berg
+24A,"2020-09-13 01:00:00",28.7,-59.2,70,981,"WNW at 15 MPH","Tropical Storm",Paulette,"2020-09-12 19:51:08",Zelinsky
+25,"2020-09-13 04:00:00",28.9,-59.7,75,981,"WNW at 14 MPH",Hurricane,Paulette,"2020-09-12 22:42:25",Zelinsky
+25A,"2020-09-13 07:00:00",29.3,-60.4,75,981,"WNW at 14 MPH",Hurricane,Paulette,"2020-09-13 02:00:25",Stewart
+26,"2020-09-13 10:00:00",29.4,-60.8,75,981,"WNW at 14 MPH",Hurricane,Paulette,"2020-09-13 05:02:31",Stewart
+26A,"2020-09-13 13:00:00",29.6,-61.4,80,978,"WNW at 14 MPH",Hurricane,Paulette,"2020-09-13 08:02:51",Latto
+27,"2020-09-13 16:00:00",29.9,-61.9,80,976,"NW at 14 MPH",Hurricane,Paulette,"2020-09-13 10:57:22",Latto
+27A,"2020-09-13 19:00:00",30.2,-62.6,80,978,"NW at 14 MPH",Hurricane,Paulette,"2020-09-13 14:03:42",Latto
+28,"2020-09-13 22:00:00",30.6,-63.1,85,974,"NW at 14 MPH",Hurricane,Paulette,"2020-09-13 16:39:19",Latto
+28A,"2020-09-14 01:00:00",30.9,-63.6,85,974,"NW at 14 MPH",Hurricane,Paulette,"2020-09-13 20:05:48",Zelinsky
+29,"2020-09-14 04:00:00",31.4,-64,85,976,"NW at 13 MPH",Hurricane,Paulette,"2020-09-13 23:00:04",Zelinsky
+29A,"2020-09-14 07:00:00",31.7,-64.4,85,973,"NW at 13 MPH",Hurricane,Paulette,"2020-09-14 02:03:04",Stewart
+30,"2020-09-14 10:00:00",32.3,-64.7,90,973,"NNW at 12 MPH",Hurricane,Paulette,"2020-09-14 05:06:14",Stewart
+30A,"2020-09-14 13:00:00",32.9,-64.7,95,970,"NNW at 12 MPH",Hurricane,Paulette,"2020-09-14 08:09:08",Roberts
+31,"2020-09-14 16:00:00",33.2,-64.8,100,970,"N at 14 MPH",Hurricane,Paulette,"2020-09-14 11:09:29",Roberts
+31A,"2020-09-14 19:00:00",33.9,-64.4,105,965,"NNE at 13 MPH",Hurricane,Paulette,"2020-09-14 13:54:24",Roberts
+32,"2020-09-14 22:00:00",34.5,-63.8,105,965,"NNE at 15 MPH",Hurricane,Paulette,"2020-09-14 16:48:19",Roberts
+33,"2020-09-15 04:00:00",35.7,-62.3,105,965,"NE at 17 MPH",Hurricane,Paulette,"2020-09-14 22:51:35",Zelinsky
+34,"2020-09-15 10:00:00",37,-60.5,105,965,"NE at 20 MPH",Hurricane,Paulette,"2020-09-15 04:36:18",Cangialosi
+35,"2020-09-15 16:00:00",38.3,-57.9,105,965,"NE at 29 MPH",Hurricane,Paulette,"2020-09-15 10:45:28",Roberts
+36,"2020-09-15 22:00:00",39.5,-55,100,970,"ENE at 30 MPH",Hurricane,Paulette,"2020-09-15 16:48:24",Roberts
+37,"2020-09-16 04:00:00",40.7,-52.4,100,966,"ENE at 28 MPH",Hurricane,Paulette,"2020-09-15 22:48:04",Cangialosi
+38,"2020-09-16 10:00:00",41.9,-49.1,100,966,"ENE at 29 MPH",Hurricane,Paulette,"2020-09-16 04:42:20",Cangialosi
+39,"2020-09-16 16:00:00",43.3,-45.2,85,973,"ENE at 35 MPH","Post-Tropical Cyclone",Paulette,"2020-09-16 10:45:08",Roberts
+40,"2020-09-22 04:00:00",33.9,-25.3,60,1004,"ENE at 16 MPH","Tropical Storm",Paulette,"2020-09-21 22:35:58",Brown
+41,"2020-09-22 10:00:00",34.7,-23.7,60,1002,"ENE at 17 MPH","Tropical Storm",Paulette,"2020-09-22 05:00:01",Berg
+42,"2020-09-22 16:00:00",35,-22.3,40,1006,"E at 14 MPH","Tropical Storm",Paulette,"2020-09-22 10:50:44",Latto
+43,"2020-09-22 22:00:00",34.8,-21.2,40,1006,"E at 12 MPH","Tropical Storm",Paulette,"2020-09-22 16:50:50",Stewart
+44,"2020-09-23 04:00:00",34.8,-20,40,1006,"E at 12 MPH","Post-Tropical Cyclone",Paulette,"2020-09-22 22:38:53",Brown
+1,"2020-09-07 08:00:00",15.2,-20.3,35,1004,"W at 12 MPH","Tropical Depression",Eighteen,"2020-09-07 04:51:21",Brown
+1A,"2020-09-07 11:00:00",15.4,-20.7,35,1004,"W at 12 MPH","Tropical Depression",Eighteen,"2020-09-07 08:03:11",Cangialosi
+2,"2020-09-07 14:00:00",15.7,-21.2,35,1004,"WNW at 10 MPH","Tropical Depression",Eighteen,"2020-09-07 10:45:29",Cangialosi
+2A,"2020-09-07 17:00:00",15.9,-21.5,35,1004,"WNW at 10 MPH","Tropical Depression",Eighteen,"2020-09-07 13:39:22",Cangialosi
+3,"2020-09-07 20:00:00",16.1,-22.3,40,1001,"WNW at 12 MPH","Tropical Storm",Rene,"2020-09-07 16:36:41",Cangialosi
+3A,"2020-09-07 23:00:00",16.2,-22.8,40,1001,"WNW at 12 MPH","Tropical Storm",Rene,"2020-09-07 19:54:36",Stewart
+4,"2020-09-08 02:00:00",16.2,-23.5,40,1001,"W at 14 MPH","Tropical Storm",Rene,"2020-09-07 22:45:00",Stewart
+4A,"2020-09-08 05:00:00",16.2,-24,40,1001,"W at 14 MPH","Tropical Storm",Rene,"2020-09-08 01:57:34",Beven
+5,"2020-09-08 08:00:00",16.4,-24.9,40,1001,"W at 15 MPH","Tropical Storm",Rene,"2020-09-08 04:45:24",Beven
+5A,"2020-09-08 11:00:00",16.5,-25.7,40,1001,"W at 15 MPH","Tropical Storm",Rene,"2020-09-08 07:48:29",Cangialosi
+6,"2020-09-08 14:00:00",16.5,-26.5,40,1001,"W at 16 MPH","Tropical Storm",Rene,"2020-09-08 10:35:51",Cangialosi
+6A,"2020-09-08 17:00:00",16.6,-27.2,40,1001,"W at 16 MPH","Tropical Storm",Rene,"2020-09-08 13:54:07",Cangialosi
+7,"2020-09-08 20:00:00",16.8,-27.9,40,1001,"W at 16 MPH","Tropical Storm",Rene,"2020-09-08 16:39:35",Cangialosi
+8,"2020-09-09 02:00:00",17,-29.3,35,1004,"WNW at 16 MPH","Tropical Depression",Rene,"2020-09-08 22:57:24",Stewart
+9,"2020-09-09 10:00:00",17.4,-30.5,35,1004,"WNW at 14 MPH","Tropical Depression",Rene,"2020-09-09 05:00:31",Beven
+10,"2020-09-09 16:00:00",17.6,-31.5,40,1003,"WNW at 13 MPH","Tropical Storm",Rene,"2020-09-09 10:36:50",Pasch
+11,"2020-09-09 22:00:00",18,-32.7,40,1003,"WNW at 13 MPH","Tropical Storm",Rene,"2020-09-09 16:42:05",Pasch
+12,"2020-09-10 04:00:00",18,-34,40,1003,"WNW at 13 MPH","Tropical Storm",Rene,"2020-09-09 22:48:28",Stewart
+13,"2020-09-10 10:00:00",18.2,-34.8,40,1003,"WNW at 10 MPH","Tropical Storm",Rene,"2020-09-10 04:48:15",Beven
+14,"2020-09-10 16:00:00",18.6,-35.8,50,1000,"WNW at 12 MPH","Tropical Storm",Rene,"2020-09-10 10:50:41",Pasch
+15,"2020-09-10 22:00:00",18.9,-36.8,50,1000,"WNW at 12 MPH","Tropical Storm",Rene,"2020-09-10 16:33:26",Pasch
+16,"2020-09-11 04:00:00",19.3,-37.6,45,1002,"WNW at 12 MPH","Tropical Storm",Rene,"2020-09-10 22:54:05",Brown
+17,"2020-09-11 10:00:00",19.7,-38.5,45,1002,"WNW at 10 MPH","Tropical Storm",Rene,"2020-09-11 04:51:16",Roberts
+18,"2020-09-11 16:00:00",20.3,-39.9,40,1004,"WNW at 13 MPH","Tropical Storm",Rene,"2020-09-11 11:00:13",Pasch
+19,"2020-09-11 22:00:00",20.7,-41.1,40,1004,"WNW at 14 MPH","Tropical Storm",Rene,"2020-09-11 17:00:33",Pasch
+20,"2020-09-12 04:00:00",21.4,-42.4,40,1004,"WNW at 14 MPH","Tropical Storm",Rene,"2020-09-11 22:51:10",Brown
+21,"2020-09-12 10:00:00",22.5,-43.5,40,1004,"NW at 14 MPH","Tropical Storm",Rene,"2020-09-12 04:56:47",Brown
+22,"2020-09-12 16:00:00",23.2,-44.4,35,1006,"NW at 13 MPH","Tropical Depression",Rene,"2020-09-12 11:15:28",Latto
+23,"2020-09-12 22:00:00",24.3,-45.6,35,1006,"NW at 14 MPH","Tropical Depression",Rene,"2020-09-12 16:48:10",Brown
+24,"2020-09-13 04:00:00",25.3,-46.4,30,1011,"NW at 13 MPH","Tropical Depression",Rene,"2020-09-12 22:39:30",Blake
+25,"2020-09-13 10:00:00",26.2,-47.1,30,1011,"NW at 14 MPH","Tropical Depression",Rene,"2020-09-13 05:15:03",Beven
+26,"2020-09-13 16:00:00",26.8,-47.6,30,1011,"NW at 9 MPH","Tropical Depression",Rene,"2020-09-13 11:09:02",Latto
+27,"2020-09-13 22:00:00",27.3,-47.6,30,1011,"NNW at 6 MPH","Tropical Depression",Rene,"2020-09-13 16:45:25",Zelinsky
+28,"2020-09-14 04:00:00",27.2,-47.9,30,1011,"W at 2 MPH","Tropical Depression",Rene,"2020-09-13 22:38:54",Brennan
+29,"2020-09-14 10:00:00",27.4,-48.3,30,1011,"W at 3 MPH","Tropical Depression",Rene,"2020-09-14 04:56:51",Beven
+30,"2020-09-14 16:00:00",27.5,-48.3,30,1011,Stationary,"Tropical Depression",Rene,"2020-09-14 11:02:40",Brown
+31,"2020-09-14 22:00:00",26.9,-49.3,30,1011,"WSW at 7 MPH",Remnants,Rene,"2020-09-14 16:36:35",Zelinsky
+1,"2020-09-11 22:00:00",25.4,-79,35,1009,"WNW at 8 MPH","Tropical Depression",Nineteen,"2020-09-11 16:59:47",Blake
+1A,"2020-09-12 01:00:00",25.5,-79.5,35,1008,"WNW at 8 MPH","Tropical Depression",Nineteen,"2020-09-11 19:35:42",Cangialosi/Zelinsky
+2,"2020-09-12 04:00:00",25.7,-79.8,35,1007,"WNW at 8 MPH","Tropical Depression",Nineteen,"2020-09-11 22:44:47",Cangialosi
+2A,"2020-09-12 07:00:00",25.7,-80.2,35,1007,"WNW at 8 MPH","Tropical Depression",Nineteen,"2020-09-12 01:50:56",Beven
+3,"2020-09-12 10:00:00",25.6,-80.7,35,1004,"W at 9 MPH","Tropical Depression",Nineteen,"2020-09-12 05:02:37",Beven
+3A,"2020-09-12 13:00:00",25.6,-81.1,35,1004,"W at 9 MPH","Tropical Depression",Nineteen,"2020-09-12 07:56:33",Pasch
+4,"2020-09-12 16:00:00",25.6,-81.5,35,1004,"W at 9 MPH","Tropical Depression",Nineteen,"2020-09-12 11:03:05",Pasch
+4A,"2020-09-12 19:00:00",25.6,-81.6,40,1004,"W at 7 MPH","Tropical Depression",Nineteen,"2020-09-12 13:59:41",Pasch
+4A...CORRE,"2020-09-12 19:00:00",25.6,-81.6,40,1004,"W at 7 MPH","Tropical Storm",Sally,"2020-09-12 14:02:42",Pasch
+5,"2020-09-12 22:00:00",25.7,-81.9,40,1004,"W at 7 MPH","Tropical Storm",Sally,"2020-09-12 16:50:39",Pasch
+5A,"2020-09-13 01:00:00",26,-82.5,40,1003,"WNW at 8 MPH","Tropical Storm",Sally,"2020-09-12 19:41:43",Brennan
+6,"2020-09-13 04:00:00",26.3,-82.9,40,1003,"WNW at 8 MPH","Tropical Storm",Sally,"2020-09-12 22:35:56",Brennan
+6A,"2020-09-13 07:00:00",26.7,-83.4,45,1003,"WNW at 8 MPH","Tropical Storm",Sally,"2020-09-13 01:44:47",Blake
+7,"2020-09-13 10:00:00",27,-84,50,1001,"WNW at 13 MPH","Tropical Storm",Sally,"2020-09-13 04:56:30",Blake
+7A,"2020-09-13 13:00:00",27.3,-84.6,50,996,"WNW at 13 MPH","Tropical Storm",Sally,"2020-09-13 07:59:32",Brown
+8,"2020-09-13 16:00:00",27.5,-84.9,60,998,"WNW at 12 MPH","Tropical Storm",Sally,"2020-09-13 10:59:42",Brown
+8A,"2020-09-13 19:00:00",27.7,-85.5,60,998,"WNW at 12 MPH","Tropical Storm",Sally,"2020-09-13 13:47:39",Brown
+9,"2020-09-13 22:00:00",27.8,-85.9,60,996,"WNW at 9 MPH","Tropical Storm",Sally,"2020-09-13 16:41:40",Brown
+9A,"2020-09-14 01:00:00",27.9,-86.2,60,996,"WNW at 9 MPH","Tropical Storm",Sally,"2020-09-13 19:56:45",Cangialosi
+10,"2020-09-14 04:00:00",28.2,-86.2,60,996,"NW at 8 MPH","Tropical Storm",Sally,"2020-09-13 22:56:44",Cangialosi
+10A,"2020-09-14 07:00:00",28.1,-86.9,60,996,"W at 12 MPH","Tropical Storm",Sally,"2020-09-14 01:38:48",Blake
+11,"2020-09-14 10:00:00",28.3,-87.3,60,996,"WNW at 9 MPH","Tropical Storm",Sally,"2020-09-14 04:53:31",Blake
+11A,"2020-09-14 13:00:00",28.4,-87.4,65,994,"WNW at 8 MPH","Tropical Storm",Sally,"2020-09-14 07:59:35",Brown
+12,"2020-09-14 16:00:00",28.4,-86.9,65,991,"WNW at 6 MPH","Tropical Storm",Sally,"2020-09-14 10:53:34",Brown
+13,"2020-09-14 17:30:00",28.7,-87,90,986,"WNW at 7 MPH",Hurricane,Sally,"2020-09-14 12:32:57",Brown
+13A,"2020-09-14 19:00:00",28.7,-87.1,90,986,"WNW at 7 MPH",Hurricane,Sally,"2020-09-14 13:53:40",Brown
+14,"2020-09-14 22:00:00",28.8,-87.4,100,987,"WNW at 6 MPH",Hurricane,Sally,"2020-09-14 16:44:43",Brown
+14A,"2020-09-15 01:00:00",28.8,-87.5,100,988,"WNW at 5 MPH",Hurricane,Sally,"2020-09-14 19:53:50",Cangialosi
+15,"2020-09-15 04:00:00",28.9,-87.6,100,986,"WNW at 3 MPH",Hurricane,Sally,"2020-09-14 22:47:53",Cangialosi
+15A,"2020-09-15 07:00:00",28.8,-88,90,986,"W at 3 MPH",Hurricane,Sally,"2020-09-15 02:00:01",Stewart
+16,"2020-09-15 10:00:00",28.9,-88.1,85,983,"WNW at 2 MPH",Hurricane,Sally,"2020-09-15 05:02:32",Stewart
+16A,"2020-09-15 13:00:00",29.1,-88,85,982,"NW at 2 MPH",Hurricane,Sally,"2020-09-15 07:47:40",Brown
+17,"2020-09-15 16:00:00",29.1,-88.2,85,983,"NW at 2 MPH",Hurricane,Sally,"2020-09-15 10:47:35",Brown
+17A,"2020-09-15 19:00:00",29.2,-88.2,80,982,"NW at 2 MPH",Hurricane,Sally,"2020-09-15 13:44:44",Brown
+18,"2020-09-15 22:00:00",29.5,-88.1,80,979,"N at 2 MPH",Hurricane,Sally,"2020-09-15 16:41:45",Brown
+20,"2020-09-16 07:30:00",29.9,-87.8,105,968,"NNE at 2 MPH",Hurricane,Sally,"2020-09-16 02:44:54",Stewart
+21,"2020-09-16 10:00:00",30.1,-87.7,105,965,"NNE at 3 MPH",Hurricane,Sally,"2020-09-16 04:56:35",Stewart
+21A,"2020-09-16 13:00:00",30.4,-87.6,100,967,"NNE at 3 MPH",Hurricane,Sally,"2020-09-16 08:02:34",Brown
+22,"2020-09-16 16:00:00",30.6,-87.4,80,975,"NNE at 5 MPH",Hurricane,Sally,"2020-09-16 10:41:41",Brown
+22A,"2020-09-16 19:00:00",30.9,-87.1,70,982,"NNE at 5 MPH","Tropical Storm",Sally,"2020-09-16 13:56:40",Brown
+23,"2020-09-16 22:00:00",31.2,-86.8,60,990,"NE at 7 MPH","Tropical Storm",Sally,"2020-09-16 16:41:41",Brown
+23A,"2020-09-17 01:00:00",31.5,-86.5,45,994,"NE at 7 MPH","Tropical Storm",Sally,"2020-09-16 19:53:41",Pasch
+24,"2020-09-17 04:00:00",31.9,-86.1,35,995,"NE at 9 MPH","Tropical Depression",Sally,"2020-09-16 22:35:59",Pasch
+25,"2020-09-17 10:00:00",31.8,-85.7,30,1000,"NE at 12 MPH","Tropical Depression",Sally,"2020-09-17 04:32:40",Stewart
+1,"2020-09-12 22:00:00",11.4,-33.5,35,1005,"WNW at 9 MPH","Tropical Depression",Twenty,"2020-09-12 16:51:19",Latto
+2,"2020-09-13 04:00:00",11.9,-34.6,35,1007,"WNW at 10 MPH","Tropical Depression",Twenty,"2020-09-12 23:00:26",Zelinsky
+3,"2020-09-13 10:00:00",12.2,-35.5,35,1005,"WNW at 10 MPH","Tropical Depression",Twenty,"2020-09-13 05:02:45",Stewart
+4,"2020-09-13 16:00:00",12.3,-36.4,35,1006,"WNW at 10 MPH","Tropical Depression",Twenty,"2020-09-13 10:56:48",Berg
+5,"2020-09-13 22:00:00",12.7,-37.6,35,1006,"WNW at 12 MPH","Tropical Depression",Twenty,"2020-09-13 16:36:34",Berg
+6,"2020-09-14 04:00:00",13,-39,35,1006,"WNW at 15 MPH","Tropical Depression",Twenty,"2020-09-13 23:00:04",Zelinsky
+7,"2020-09-14 10:00:00",13.4,-40.4,40,1004,"WNW at 14 MPH","Tropical Storm",Teddy,"2020-09-14 05:24:22",Stewart
+8,"2020-09-14 16:00:00",12.8,-42.8,40,1004,"W at 14 MPH","Tropical Storm",Teddy,"2020-09-14 10:57:14",Brennan
+9,"2020-09-14 22:00:00",13,-44,50,1002,"W at 14 MPH","Tropical Storm",Teddy,"2020-09-14 16:48:14",Brennan
+10,"2020-09-15 04:00:00",13.2,-45,50,1002,"W at 13 MPH","Tropical Storm",Teddy,"2020-09-14 22:33:09",Blake
+11,"2020-09-15 10:00:00",13.7,-46,60,1001,"WNW at 12 MPH","Tropical Storm",Teddy,"2020-09-15 05:03:24",Blake
+12,"2020-09-15 16:00:00",14,-47,65,999,"WNW at 13 MPH","Tropical Storm",Teddy,"2020-09-15 10:48:14",Zelinsky
+13,"2020-09-15 22:00:00",14.6,-47.9,65,997,"WNW at 13 MPH","Tropical Storm",Teddy,"2020-09-15 16:41:59",Zelinsky
+14,"2020-09-16 04:00:00",15,-48.3,70,992,"NW at 9 MPH","Tropical Storm",Teddy,"2020-09-15 22:48:06",Berg
+15,"2020-09-16 08:00:00",15.5,-48.7,90,981,"NW at 10 MPH",Hurricane,Teddy,"2020-09-16 02:57:20",Blake
+16,"2020-09-16 10:00:00",15.8,-49,100,976,"NW at 12 MPH",Hurricane,Teddy,"2020-09-16 04:41:46",Blake
+17,"2020-09-16 16:00:00",16.5,-49.7,100,973,"NW at 12 MPH",Hurricane,Teddy,"2020-09-16 10:45:31",Latto
+18,"2020-09-16 22:00:00",17.5,-50.8,100,973,"NW at 13 MPH",Hurricane,Teddy,"2020-09-16 16:54:46",Latto
+19,"2020-09-17 04:00:00",17.8,-51.5,90,976,"NW at 13 MPH",Hurricane,Teddy,"2020-09-16 22:51:28",Berg
+20,"2020-09-17 10:00:00",18.3,-52.3,105,970,"NW at 12 MPH",Hurricane,Teddy,"2020-09-17 04:54:29",Stewart
+21,"2020-09-17 16:00:00",19.3,-53,120,957,"NW at 12 MPH",Hurricane,Teddy,"2020-09-17 11:03:23",Latto
+22,"2020-09-17 22:00:00",20.1,-54.1,140,945,"NW at 13 MPH",Hurricane,Teddy,"2020-09-17 17:09:44",Latto
+23,"2020-09-18 04:00:00",20.9,-54.7,140,945,"NW at 12 MPH",Hurricane,Teddy,"2020-09-17 22:39:25",Pasch
+24,"2020-09-18 10:00:00",21.6,-55.4,130,947,"NW at 12 MPH",Hurricane,Teddy,"2020-09-18 04:38:37",Cangialosi
+25,"2020-09-18 16:00:00",22.1,-56.1,130,947,"NW at 12 MPH",Hurricane,Teddy,"2020-09-18 10:42:19",Latto
+26,"2020-09-18 22:00:00",23.1,-57,125,951,"NW at 14 MPH",Hurricane,Teddy,"2020-09-18 17:03:20",Latto
+26A,"2020-09-19 01:00:00",23.5,-57,125,951,"NW at 14 MPH",Hurricane,Teddy,"2020-09-18 20:00:02",Pasch
+27,"2020-09-19 04:00:00",24,-57.4,130,948,"NW at 13 MPH",Hurricane,Teddy,"2020-09-18 23:12:29",Pasch
+27A,"2020-09-19 07:00:00",24.4,-57.7,130,948,"NW at 13 MPH",Hurricane,Teddy,"2020-09-19 01:48:21",Zelinsky
+28,"2020-09-19 10:00:00",24.9,-58.2,125,952,"NW at 14 MPH",Hurricane,Teddy,"2020-09-19 04:57:25",Zelinsky
+28A,"2020-09-19 13:00:00",25.5,-58.5,125,952,"NW at 14 MPH",Hurricane,Teddy,"2020-09-19 07:51:06",Latto
+29,"2020-09-19 16:00:00",26,-59,120,958,"NW at 14 MPH",Hurricane,Teddy,"2020-09-19 11:00:21",Latto
+29A,"2020-09-19 19:00:00",26.3,-59.9,120,958,"NW at 14 MPH",Hurricane,Teddy,"2020-09-19 13:54:23",Latto
+30,"2020-09-19 22:00:00",26.7,-60.2,120,958,"NW at 13 MPH",Hurricane,Teddy,"2020-09-19 16:45:24",Latto
+30A,"2020-09-20 01:00:00",27,-60.9,120,956,"NW at 13 MPH",Hurricane,Teddy,"2020-09-19 20:00:07",Pasch
+31,"2020-09-20 04:00:00",27.3,-61.2,115,956,"NW at 13 MPH",Hurricane,Teddy,"2020-09-19 22:54:01",Pasch
+31A,"2020-09-20 07:00:00",27.6,-61.6,115,956,"NW at 13 MPH",Hurricane,Teddy,"2020-09-20 01:54:03",Zelinsky
+32,"2020-09-20 10:00:00",28,-62,115,958,"NW at 12 MPH",Hurricane,Teddy,"2020-09-20 04:51:01",Zelinsky
+32A,"2020-09-20 13:00:00",28,-62.7,105,964,"WNW at 12 MPH",Hurricane,Teddy,"2020-09-20 07:54:16",Blake
+33,"2020-09-20 16:00:00",28.3,-62.8,105,964,"NW at 9 MPH",Hurricane,Teddy,"2020-09-20 10:59:53",Blake
+33A,"2020-09-20 19:00:00",28.6,-63.1,105,964,"NW at 9 MPH",Hurricane,Teddy,"2020-09-20 13:54:30",Blake
+34,"2020-09-20 22:00:00",29,-63.4,105,964,"NNW at 9 MPH",Hurricane,Teddy,"2020-09-20 17:09:21",Blake
+34A,"2020-09-21 01:00:00",29.3,-63.4,105,964,"N at 9 MPH",Hurricane,Teddy,"2020-09-20 20:00:19",Roberts
+35,"2020-09-21 04:00:00",29.4,-63.6,105,963,"NNW at 6 MPH",Hurricane,Teddy,"2020-09-20 23:00:08",Roberts
+35A,"2020-09-21 07:00:00",29.7,-63.5,105,963,"N at 6 MPH",Hurricane,Teddy,"2020-09-21 01:54:04",Zelinsky
+36,"2020-09-21 10:00:00",30.3,-63.2,100,963,"N at 9 MPH",Hurricane,Teddy,"2020-09-21 04:51:33",Zelinsky
+36A,"2020-09-21 13:00:00",30.5,-63,100,960,"NNE at 9 MPH",Hurricane,Teddy,"2020-09-21 07:59:42",Blake
+37,"2020-09-21 16:00:00",31.1,-62.7,90,960,"NNE at 14 MPH",Hurricane,Teddy,"2020-09-21 10:57:46",Blake
+37A,"2020-09-21 19:00:00",32.2,-62,90,960,"NNE at 18 MPH",Hurricane,Teddy,"2020-09-21 14:12:06",Blake
+38,"2020-09-21 22:00:00",33.2,-62,90,958,"N at 23 MPH",Hurricane,Teddy,"2020-09-21 17:03:33",Blake
+38A,"2020-09-22 01:00:00",34.6,-61.4,90,956,"N at 26 MPH",Hurricane,Teddy,"2020-09-21 20:03:44",Roberts
+39,"2020-09-22 04:00:00",35.6,-61.5,100,956,"N at 25 MPH",Hurricane,Teddy,"2020-09-21 22:57:16",Roberts
+39A,"2020-09-22 07:00:00",37.5,-62.1,100,956,"NNW at 25 MPH",Hurricane,Teddy,"2020-09-22 02:00:39",Pasch
+40,"2020-09-22 10:00:00",38.4,-62.4,100,960,"NNW at 28 MPH",Hurricane,Teddy,"2020-09-22 04:57:30",Pasch
+40A,"2020-09-22 13:00:00",39.3,-63.5,105,950,"NNW at 28 MPH",Hurricane,Teddy,"2020-09-22 08:00:01",Blake
+41,"2020-09-22 16:00:00",39.6,-63.7,105,950,"NNW at 16 MPH",Hurricane,Teddy,"2020-09-22 11:03:19",Blake
+41A,"2020-09-22 19:00:00",40.3,-64.1,100,956,"NNW at 16 MPH",Hurricane,Teddy,"2020-09-22 13:51:19",Blake
+42,"2020-09-22 22:00:00",41.1,-64.2,90,958,"N at 16 MPH",Hurricane,Teddy,"2020-09-22 17:06:07",Blake
+42A,"2020-09-23 01:00:00",41.9,-64.2,85,955,"N at 18 MPH","Post-Tropical Cyclone",Teddy,"2020-09-22 19:36:45",Roberts
+43,"2020-09-23 04:00:00",42.8,-63.9,80,957,"N at 18 MPH","Post-Tropical Cyclone",Teddy,"2020-09-22 22:48:26",Roberts
+43A,"2020-09-23 07:00:00",43.4,-63.5,75,955,"NNE at 18 MPH","Post-Tropical Cyclone",Teddy,"2020-09-23 01:56:51",Pasch
+44,"2020-09-23 10:00:00",44.5,-62.7,70,957,"NNE at 23 MPH","Post-Tropical Cyclone",Teddy,"2020-09-23 04:45:12",Pasch
+44A,"2020-09-23 13:00:00",44.8,-62.3,65,963,"NNE at 23 MPH","Post-Tropical Cyclone",Teddy,"2020-09-23 07:48:28",Blake
+45,"2020-09-23 16:00:00",46,-61.3,60,967,"NNE at 26 MPH","Post-Tropical Cyclone",Teddy,"2020-09-23 11:21:31",Blake
+45A,"2020-09-23 19:00:00",47.5,-60.3,60,974,"NNE at 29 MPH","Post-Tropical Cyclone",Teddy,"2020-09-23 13:57:09",Blake
+46,"2020-09-23 22:00:00",48.6,-59.6,50,975,"NNE at 31 MPH","Post-Tropical Cyclone",Teddy,"2020-09-23 16:48:26",Blake
+46A,"2020-09-24 01:00:00",49.7,-59.2,50,975,"NNE at 31 MPH","Post-Tropical Cyclone",Teddy,"2020-09-23 19:48:20",Roberts
+47,"2020-09-24 04:00:00",51,-57.3,50,975,"NNE at 32 MPH","Post-Tropical Cyclone",Teddy,"2020-09-23 22:54:42",Roberts
+1,"2020-09-14 09:00:00",18.5,-28.3,35,1009,"N at 6 MPH","Tropical Depression",Twenty-one,"2020-09-14 05:50:52",Stewart/Beven
+2,"2020-09-14 14:00:00",18.7,-28.5,45,1002,"NW at 6 MPH","Tropical Storm",Vicky,"2020-09-14 10:42:00",Roberts
+3,"2020-09-14 20:00:00",19.3,-29.5,45,1002,"NW at 7 MPH","Tropical Storm",Vicky,"2020-09-14 16:39:13",Zelinsky
+4,"2020-09-15 02:00:00",19.5,-29.9,50,1000,"NW at 7 MPH","Tropical Storm",Vicky,"2020-09-14 22:36:14",Pasch
+5,"2020-09-15 10:00:00",20.3,-30.1,50,1004,"NW at 9 MPH","Tropical Storm",Vicky,"2020-09-15 04:36:20",Blake
+6,"2020-09-15 16:00:00",20.6,-31,50,1004,"WNW at 9 MPH","Tropical Storm",Vicky,"2020-09-15 10:42:25",Roberts
+7,"2020-09-15 22:00:00",21.2,-32.1,45,1004,"WNW at 12 MPH","Tropical Storm",Vicky,"2020-09-15 16:36:19",Brennan
+8,"2020-09-16 04:00:00",21.6,-33.1,50,1004,"WNW at 12 MPH","Tropical Storm",Vicky,"2020-09-15 22:33:28",Blake
+9,"2020-09-16 10:00:00",21.6,-33.9,50,1004,"WNW at 9 MPH","Tropical Storm",Vicky,"2020-09-16 04:27:24",Cangialosi
+10,"2020-09-16 16:00:00",21.5,-34.7,40,1008,"W at 9 MPH","Tropical Storm",Vicky,"2020-09-16 10:35:56",Brennan
+11,"2020-09-16 22:00:00",21.5,-35.7,40,1008,"W at 9 MPH","Tropical Storm",Vicky,"2020-09-16 16:45:27",Roberts
+12,"2020-09-17 04:00:00",21.6,-35.8,40,1008,"W at 10 MPH","Tropical Storm",Vicky,"2020-09-16 22:35:54",Zelinsky
+13,"2020-09-17 10:00:00",21.9,-36.7,40,1008,"WNW at 7 MPH","Tropical Storm",Vicky,"2020-09-17 04:36:06",Cangialosi
+14,"2020-09-17 16:00:00",21.4,-38.2,35,1008,"W at 14 MPH","Tropical Depression",Vicky,"2020-09-17 10:41:45",Brown
+15,"2020-09-17 22:00:00",21.1,-39.1,30,1008,"WSW at 12 MPH","Post-Tropical Cyclone",Vicky,"2020-09-17 16:38:53",Brown
+1,"2020-09-18 00:00:00",21.9,-94.3,35,1005,"NE at 5 MPH","Tropical Depression",Twenty-two,"2020-09-17 19:03:51",Berg
+2,"2020-09-18 04:00:00",22,-94.2,35,1005,"NE at 3 MPH","Tropical Depression",Twenty-two,"2020-09-17 22:48:12",Berg
+3,"2020-09-18 10:00:00",22.9,-94.1,35,1005,"NNE at 6 MPH","Tropical Depression",Twenty-two,"2020-09-18 04:38:46",Zelinsky
+4,"2020-09-18 16:00:00",23.8,-93.9,35,1005,"NNE at 7 MPH","Tropical Depression",Twenty-two,"2020-09-18 10:51:29",Beven
+5,"2020-09-18 22:00:00",24.3,-93.1,40,1004,"NNE at 9 MPH","Tropical Storm",Beta,"2020-09-18 16:54:25",Beven
+6,"2020-09-19 04:00:00",25.5,-92.3,60,996,"NNE at 12 MPH","Tropical Storm",Beta,"2020-09-18 23:12:39",Berg
+6A,"2020-09-19 07:00:00",25.8,-92.2,60,996,"NNE at 12 MPH","Tropical Storm",Beta,"2020-09-19 01:36:36",Cangialosi
+7,"2020-09-19 10:00:00",26,-92.5,60,996,"N at 8 MPH","Tropical Storm",Beta,"2020-09-19 04:57:26",Cangialosi
+7A,"2020-09-19 13:00:00",26.5,-92.4,60,995,"N at 8 MPH","Tropical Storm",Beta,"2020-09-19 07:57:32",Beven
+8,"2020-09-19 16:00:00",26.6,-92.6,60,994,"NW at 3 MPH","Tropical Storm",Beta,"2020-09-19 10:57:33",Beven
+8A,"2020-09-19 19:00:00",26.6,-92.7,60,994,"W at 2 MPH","Tropical Storm",Beta,"2020-09-19 13:57:29",Beven
+9,"2020-09-19 22:00:00",26.6,-92.4,60,994,Stationary,"Tropical Storm",Beta,"2020-09-19 17:03:23",Beven
+9A,"2020-09-20 01:00:00",26.7,-92.2,60,997,Stationary,"Tropical Storm",Beta,"2020-09-19 19:51:44",Berg
+10,"2020-09-20 04:00:00",26.8,-92.2,60,997,"NNE at 2 MPH","Tropical Storm",Beta,"2020-09-19 23:00:54",Berg
+10A,"2020-09-20 07:00:00",26.9,-92.4,60,997,"N at 2 MPH","Tropical Storm",Beta,"2020-09-20 01:54:59",Cangialosi
+11,"2020-09-20 10:00:00",27,-92.7,60,997,"WNW at 3 MPH","Tropical Storm",Beta,"2020-09-20 05:03:24",Cangialosi
+11A,"2020-09-20 13:00:00",27.1,-92.8,60,997,"WNW at 3 MPH","Tropical Storm",Beta,"2020-09-20 08:00:19",Stewart
+12,"2020-09-20 16:00:00",27.2,-93,60,996,"WNW at 3 MPH","Tropical Storm",Beta,"2020-09-20 10:59:57",Stewart
+12A,"2020-09-20 19:00:00",27.6,-93.6,60,996,"WNW at 5 MPH","Tropical Storm",Beta,"2020-09-20 13:54:39",Stewart
+13,"2020-09-20 22:00:00",27.7,-94,60,996,"WNW at 6 MPH","Tropical Storm",Beta,"2020-09-20 17:00:03",Stewart
+13A,"2020-09-21 01:00:00",27.6,-94.1,60,996,"WNW at 6 MPH","Tropical Storm",Beta,"2020-09-20 20:03:39",Brown
+14,"2020-09-21 04:00:00",27.6,-94.5,60,995,"WNW at 6 MPH","Tropical Storm",Beta,"2020-09-20 22:54:39",Brown
+14A,"2020-09-21 07:00:00",27.6,-94.8,60,995,"WNW at 6 MPH","Tropical Storm",Beta,"2020-09-21 01:48:22",Cangialosi
+15,"2020-09-21 10:00:00",27.7,-95.1,50,996,"W at 6 MPH","Tropical Storm",Beta,"2020-09-21 04:51:26",Cangialosi
+15A,"2020-09-21 13:00:00",27.8,-95.5,50,996,"W at 6 MPH","Tropical Storm",Beta,"2020-09-21 08:03:37",Stewart
+16,"2020-09-21 16:00:00",27.9,-95.7,50,996,"WNW at 7 MPH","Tropical Storm",Beta,"2020-09-21 10:57:29",Stewart
+16A,"2020-09-21 19:00:00",28.1,-96,45,999,"WNW at 7 MPH","Tropical Storm",Beta,"2020-09-21 14:06:43",Stewart
+17,"2020-09-21 22:00:00",28.2,-96.1,45,999,"NW at 5 MPH","Tropical Storm",Beta,"2020-09-21 16:51:31",Stewart
+17A,"2020-09-22 01:00:00",28.3,-96.1,45,999,"NW at 5 MPH","Tropical Storm",Beta,"2020-09-21 20:03:49",Brown
+18,"2020-09-22 04:00:00",28.4,-96.3,45,999,"NW at 3 MPH","Tropical Storm",Beta,"2020-09-21 23:00:43",Brown
+18A,"2020-09-22 07:00:00",28.6,-96.5,40,1000,"NW at 3 MPH","Tropical Storm",Beta,"2020-09-22 02:00:51",Berg
+19,"2020-09-22 10:00:00",28.8,-96.7,40,999,"NW at 3 MPH","Tropical Storm",Beta,"2020-09-22 05:12:32",Berg
+19A,"2020-09-22 13:00:00",28.8,-96.8,40,999,"NW at 3 MPH","Tropical Storm",Beta,"2020-09-22 08:00:06",Stewart
+20,"2020-09-22 16:00:00",28.9,-96.7,35,1005,"NE at 2 MPH","Tropical Depression",Beta,"2020-09-22 11:02:52",Stewart
+21,"2020-09-22 22:00:00",29,-96.3,30,1008,"ENE at 5 MPH","Tropical Depression",Beta,"2020-09-22 16:53:56",Stewart
+22,"2020-09-23 04:00:00",29.1,-95.4,30,1007,"NE at 8 MPH","Post-Tropical Cyclone",Beta,"2020-09-22 23:03:35",Gallina
+23,"2020-09-23 10:00:00",29.5,-95,30,1007,"ENE at 9 MPH","Post-Tropical Cyclone",Beta,"2020-09-23 04:45:29",Gallina
+24,"2020-09-23 16:00:00",30.2,-94.2,30,1007,"ENE at 9 MPH","Post-Tropical Cyclone",Beta,"2020-09-23 11:03:35",Wpc
+25,"2020-09-23 22:00:00",30.5,-93.4,30,1006,"NE at 13 MPH","Post-Tropical Cyclone",Beta,"2020-09-23 17:12:42",Wpc
+26,"2020-09-24 04:00:00",31.1,-91.8,30,1005,"NE at 12 MPH","Post-Tropical Cyclone",Beta,"2020-09-23 22:51:44",Gallina
+27,"2020-09-24 10:00:00",31.9,-91,30,1004,"NE at 12 MPH","Post-Tropical Cyclone",Beta,"2020-09-24 04:48:33",Wpc
+28,"2020-09-24 16:00:00",32.9,-89.9,30,1003,"ENE at 17 MPH","Post-Tropical Cyclone",Beta,"2020-09-24 11:03:22",Orrison
+29,"2020-09-24 22:00:00",33.4,-88,25,1007,"NE at 16 MPH","Post-Tropical Cyclone",Beta,"2020-09-24 17:03:38",Orrison
+30,"2020-09-25 04:00:00",34,-87.1,25,1008,"NE at 12 MPH","Post-Tropical Cyclone",Beta,"2020-09-24 23:17:56",Gallina
+31,"2020-09-25 10:00:00",34.3,-86.3,10,1010,"NE at 10 MPH","Post-Tropical Cyclone",Beta,"2020-09-25 05:24:06",Gallina
+1,"2020-09-18 16:00:00",11.9,-32.4,40,1008,"WNW at 17 MPH","Tropical Storm",Wilfred,"2020-09-18 10:38:49",Blake
+2,"2020-09-18 22:00:00",12.5,-34.4,40,1008,"WNW at 18 MPH","Tropical Storm",Wilfred,"2020-09-18 16:57:15",Blake
+3,"2020-09-19 04:00:00",12.8,-36,40,1008,"WNW at 18 MPH","Tropical Storm",Wilfred,"2020-09-18 22:51:07",Roberts
+4,"2020-09-19 10:00:00",13.1,-36.9,40,1007,"WNW at 17 MPH","Tropical Storm",Wilfred,"2020-09-19 04:45:15",Zelinsky
+5,"2020-09-19 16:00:00",13.4,-38.1,40,1007,"WNW at 14 MPH","Tropical Storm",Wilfred,"2020-09-19 10:50:58",Brennan
+6,"2020-09-19 22:00:00",14,-39.2,40,1007,"WNW at 14 MPH","Tropical Storm",Wilfred,"2020-09-19 16:45:34",Brennan
+7,"2020-09-20 04:00:00",14.5,-40.5,40,1007,"WNW at 16 MPH","Tropical Storm",Wilfred,"2020-09-19 22:39:40",Brown
+8,"2020-09-20 10:00:00",15,-42,40,1007,"WNW at 16 MPH","Tropical Storm",Wilfred,"2020-09-20 04:39:20",Zelinsky
+9,"2020-09-20 16:00:00",15.7,-44.2,35,1008,"WNW at 20 MPH","Tropical Depression",Wilfred,"2020-09-20 10:51:25",Landsea
+10,"2020-09-20 22:00:00",15.9,-45.8,35,1008,"WNW at 20 MPH","Tropical Depression",Wilfred,"2020-09-20 16:42:16",Landsea
+11,"2020-09-21 04:00:00",15.9,-47.4,35,1008,"W at 17 MPH",Remnants,Wilfred,"2020-09-20 22:36:57",Brown
+1,"2020-09-18 17:30:00",39.9,-9.3,50,999,"NE at 17 MPH","Subtropical Storm",Alpha,"2020-09-18 12:35:44",Blake
+2,"2020-09-18 22:00:00",40.4,-8.4,45,998,"NE at 17 MPH","Subtropical Storm",Alpha,"2020-09-18 16:53:45",Blake
+3,"2020-09-19 04:00:00",40.9,-6.9,30,1005,"NE at 16 MPH","Post-Tropical Cyclone",Alpha,"2020-09-18 22:38:50",Roberts
+1,"2020-10-02 16:00:00",18.1,-84.7,35,1005,"NW at 9 MPH","Tropical Depression",Twenty-five,"2020-10-02 11:12:39",Pasch
+1A,"2020-10-02 19:00:00",18.3,-84.9,35,1005,"NW at 8 MPH","Tropical Depression",Twenty-five,"2020-10-02 13:54:16",Pasch
+2,"2020-10-02 22:00:00",18.8,-85.3,35,1005,"NW at 9 MPH","Tropical Depression",Twenty-five,"2020-10-02 16:36:17",Pasch
+2A,"2020-10-03 01:00:00",18.8,-85.8,40,1000,"NW at 9 MPH","Tropical Storm",Gamma,"2020-10-02 20:06:04",Cangialosi
+3,"2020-10-03 04:00:00",19.1,-86.1,40,998,"NW at 9 MPH","Tropical Storm",Gamma,"2020-10-02 22:45:46",Cangialosi
+3A,"2020-10-03 07:00:00",19.2,-86.6,45,996,"NW at 9 MPH","Tropical Storm",Gamma,"2020-10-03 02:09:30",Beven
+4,"2020-10-03 10:00:00",19.4,-86.9,50,992,"NW at 9 MPH","Tropical Storm",Gamma,"2020-10-03 05:06:01",Beven
+4A,"2020-10-03 13:00:00",19.7,-87.2,65,987,"NW at 9 MPH","Tropical Storm",Gamma,"2020-10-03 08:00:03",Pasch
+5,"2020-10-03 16:00:00",20,-87.3,70,983,"NW at 9 MPH","Tropical Storm",Gamma,"2020-10-03 10:57:10",Pasch/Berg
+5A,"2020-10-03 19:00:00",20.4,-87.6,70,980,"NW at 9 MPH","Tropical Storm",Gamma,"2020-10-03 13:39:23",Pasch
+7,"2020-10-04 04:00:00",21.3,-88,60,990,"NW at 7 MPH","Tropical Storm",Gamma,"2020-10-04 00:33:29",Cangialosi
+7A,"2020-10-04 07:00:00",21.8,-88.2,50,995,"NW at 8 MPH","Tropical Storm",Gamma,"2020-10-04 02:03:45",Stewart
+8,"2020-10-04 10:00:00",22,-88.2,50,995,"N at 5 MPH","Tropical Storm",Gamma,"2020-10-04 05:03:25",Stewart
+8A,"2020-10-04 13:00:00",22.1,-88.2,50,995,"N at 4 MPH","Tropical Storm",Gamma,"2020-10-04 08:03:13",Brown
+9,"2020-10-04 16:00:00",22.2,-88.2,60,996,"N at 2 MPH","Tropical Storm",Gamma,"2020-10-04 10:48:26",Brown
+9A,"2020-10-04 19:00:00",22.4,-88,60,997,"N at 2 MPH","Tropical Storm",Gamma,"2020-10-04 13:57:05",Brown
+10,"2020-10-04 22:00:00",22.4,-87.8,60,997,Stationary,"Tropical Storm",Gamma,"2020-10-04 17:00:12",Roberts
+10A,"2020-10-05 01:00:00",22.9,-87.4,60,998,"ENE at 3 MPH","Tropical Storm",Gamma,"2020-10-04 20:00:38",Zelinsky
+11,"2020-10-05 04:00:00",22.8,-87.2,60,998,"E at 2 MPH","Tropical Storm",Gamma,"2020-10-04 22:57:44",Zelinsky
+11A,"2020-10-05 07:00:00",22.8,-87.4,50,999,"W at 2 MPH","Tropical Storm",Gamma,"2020-10-05 02:03:01",Stewart
+12,"2020-10-05 10:00:00",22.7,-87.5,50,999,"WSW at 2 MPH","Tropical Storm",Gamma,"2020-10-05 04:59:48",Stewart
+12A,"2020-10-05 13:00:00",22.6,-87.5,45,1001,"SSW at 2 MPH","Tropical Storm",Gamma,"2020-10-05 08:05:37",Roberts
+13,"2020-10-05 16:00:00",22.3,-87.6,45,1003,"SSW at 2 MPH","Tropical Storm",Gamma,"2020-10-05 11:06:17",Roberts
+13A,"2020-10-05 19:00:00",22.3,-87.9,40,1003,"SW at 4 MPH","Tropical Storm",Gamma,"2020-10-05 13:47:56",Roberts
+14,"2020-10-05 22:00:00",22.1,-88.1,35,1005,"SW at 5 MPH","Tropical Depression",Gamma,"2020-10-05 16:48:35",Roberts
+15,"2020-10-06 04:00:00",21.6,-88.4,35,1005,"SW at 6 MPH","Post-Tropical Cyclone",Gamma,"2020-10-05 22:42:24",Zelinsky
+1,"2020-10-04 22:00:00",16.7,-76.6,35,1007,"WNW at 10 MPH","Potential Tropical Cyclone",Twenty-six,"2020-10-04 18:34:23",Brown
+2,"2020-10-05 04:00:00",17,-77.3,35,1006,"WNW at 9 MPH","Tropical Depression",Twenty-six,"2020-10-04 22:47:50",Cangialosi
+2A,"2020-10-05 07:00:00",16.9,-77.8,35,1006,"WNW at 9 MPH","Tropical Depression",Twenty-six,"2020-10-05 02:05:51",Stewart
+3,"2020-10-05 10:00:00",17,-78.2,35,1006,"WNW at 9 MPH","Tropical Depression",Twenty-six,"2020-10-05 05:05:29",Stewart
+3A,"2020-10-05 13:00:00",16.4,-78.4,40,1004,"WNW at 9 MPH","Tropical Storm",Delta,"2020-10-05 07:50:42",Brown
+4,"2020-10-05 16:00:00",16.4,-78.6,45,1002,"W at 7 MPH","Tropical Storm",Delta,"2020-10-05 11:02:41",Brown
+4A,"2020-10-05 19:00:00",16.1,-79.2,60,998,"W at 7 MPH","Tropical Storm",Delta,"2020-10-05 14:02:43",Brown
+5,"2020-10-05 22:00:00",16.2,-79.4,70,983,"W at 8 MPH","Tropical Storm",Delta,"2020-10-05 17:05:41",Brown
+5A,"2020-10-06 01:00:00",16.5,-79.6,75,980,"WNW at 8 MPH",Hurricane,Delta,"2020-10-05 19:47:50",Cangialosi
+6,"2020-10-06 04:00:00",16.8,-80.3,80,977,"WNW at 7 MPH",Hurricane,Delta,"2020-10-05 23:11:47",Cangialosi
+6A,"2020-10-06 07:00:00",17.1,-80.6,85,974,"WNW at 7 MPH",Hurricane,Delta,"2020-10-06 01:56:55",Blake
+7,"2020-10-06 10:00:00",17.5,-81.3,100,968,"WNW at 15 MPH",Hurricane,Delta,"2020-10-06 04:59:39",Blake
+7A,"2020-10-06 13:00:00",17.8,-82,110,962,"WNW at 15 MPH",Hurricane,Delta,"2020-10-06 08:14:32",Brown
+8,"2020-10-06 16:00:00",18.2,-82.6,115,955,"WNW at 16 MPH",Hurricane,Delta,"2020-10-06 11:02:50",Brown
+8A,"2020-10-06 19:00:00",18.5,-83.5,140,956,"WNW at 16 MPH",Hurricane,Delta,"2020-10-06 13:59:47",Brown
+9,"2020-10-06 22:00:00",18.9,-84.1,145,956,"WNW at 17 MPH",Hurricane,Delta,"2020-10-06 16:38:40",Brown
+9A...CORRE,"2020-10-07 01:00:00",19.2,-84.5,145,956,"WNW at 17 MPH",Hurricane,Delta,"2020-10-06 20:08:44",Brown
+10,"2020-10-07 04:00:00",19.5,-85.1,130,960,"WNW at 16 MPH",Hurricane,Delta,"2020-10-06 22:50:50",Pasch
+10A,"2020-10-07 07:00:00",20,-85.7,120,972,"WNW at 16 MPH",Hurricane,Delta,"2020-10-07 01:54:25",Blake
+11,"2020-10-07 10:00:00",20.6,-86.4,115,972,"NW at 17 MPH",Hurricane,Delta,"2020-10-07 05:14:30",Blake
+11A,"2020-10-07 13:00:00",21.1,-87.4,105,974,"NW at 17 MPH",Hurricane,Delta,"2020-10-07 07:56:45",Brown
+12,"2020-10-07 16:00:00",21.4,-88,105,975,"NW at 17 MPH",Hurricane,Delta,"2020-10-07 10:50:38",Brown
+12A,"2020-10-07 19:00:00",21.8,-88.8,100,975,"NW at 17 MPH",Hurricane,Delta,"2020-10-07 14:02:48",Brown
+13,"2020-10-07 22:00:00",22.1,-89.5,85,977,"NW at 17 MPH",Hurricane,Delta,"2020-10-07 17:06:28",Brown
+13A,"2020-10-08 01:00:00",22.3,-90.2,90,973,"NW at 17 MPH",Hurricane,Delta,"2020-10-07 20:11:48",Pasch
+14,"2020-10-08 04:00:00",22.5,-90.9,90,972,"WNW at 17 MPH",Hurricane,Delta,"2020-10-07 22:50:47",Pasch/Berg
+14A,"2020-10-08 07:00:00",23,-91.3,100,973,"WNW at 17 MPH",Hurricane,Delta,"2020-10-08 01:54:34",Cangialosi
+15,"2020-10-08 10:00:00",23.4,-91.8,100,973,"NW at 15 MPH",Hurricane,Delta,"2020-10-08 04:35:29",Cangialosi
+15A,"2020-10-08 13:00:00",23.7,-92.3,100,970,"NW at 15 MPH",Hurricane,Delta,"2020-10-08 08:08:35",Beven
+16,"2020-10-08 16:00:00",24,-92.7,105,968,"NW at 14 MPH",Hurricane,Delta,"2020-10-08 11:08:36",Beven
+16A,"2020-10-08 19:00:00",24.4,-93.1,105,966,"NW at 13 MPH",Hurricane,Delta,"2020-10-08 13:53:50",Beven
+17,"2020-10-08 22:00:00",24.8,-93.4,115,959,"NW at 12 MPH",Hurricane,Delta,"2020-10-08 17:11:49",Beven
+17A,"2020-10-09 01:00:00",25.3,-93.5,115,956,"NNW at 12 MPH",Hurricane,Delta,"2020-10-08 20:02:43",Pasch
+18,"2020-10-09 04:00:00",25.7,-93.6,120,955,"NNW at 12 MPH",Hurricane,Delta,"2020-10-08 22:38:49",Pasch
+18A,"2020-10-09 07:00:00",26.2,-93.6,120,953,"NNW at 12 MPH",Hurricane,Delta,"2020-10-09 02:02:52",Cangialosi
+19,"2020-10-09 10:00:00",26.9,-93.7,120,953,"N at 12 MPH",Hurricane,Delta,"2020-10-09 04:44:39",Cangialosi
+19A,"2020-10-09 13:00:00",27.5,-93.8,120,958,"N at 12 MPH",Hurricane,Delta,"2020-10-09 08:08:32",Beven
+20,"2020-10-09 16:00:00",28,-93.8,115,962,"N at 13 MPH",Hurricane,Delta,"2020-10-09 10:54:07",Beven
+20A,"2020-10-09 19:00:00",28.7,-93.6,110,963,"NNE at 14 MPH",Hurricane,Delta,"2020-10-09 14:05:45",Beven
+21,"2020-10-09 22:00:00",29.3,-93.2,105,966,"NNE at 14 MPH",Hurricane,Delta,"2020-10-09 17:05:44",Beven
+21A,"2020-10-10 01:00:00",30,-93,90,971,"NNE at 14 MPH",Hurricane,Delta,"2020-10-09 20:00:24",Pasch
+22,"2020-10-10 04:00:00",30.6,-92.6,75,972,"NNE at 15 MPH",Hurricane,Delta,"2020-10-09 22:53:47",Pasch
+22A,"2020-10-10 07:00:00",31.2,-92.3,60,985,"NNE at 15 MPH","Tropical Storm",Delta,"2020-10-10 02:06:06",Cangialosi/Zelinsky
+23,"2020-10-10 10:00:00",31.8,-91.8,45,990,"NNE at 16 MPH","Tropical Storm",Delta,"2020-10-10 04:45:12",Cangialosi/Zelinsky
+23A,"2020-10-10 13:00:00",32.6,-91.3,40,992,"NNE at 16 MPH","Tropical Storm",Delta,"2020-10-10 08:05:36",Beven
+24,"2020-10-10 16:00:00",33.1,-90.8,35,994,"NE at 16 MPH","Tropical Depression",Delta,"2020-10-10 10:47:43",Beven
+25,"2020-10-10 22:00:00",33.7,-90,30,998,"NE at 12 MPH","Post-Tropical Cyclone",Delta,"2020-10-10 16:42:16",Roth
+26,"2020-10-11 04:00:00",34,-89.5,30,1002,"ENE at 14 MPH","Post-Tropical Cyclone",Delta,"2020-10-10 22:56:47",Hurley
+27,"2020-10-11 10:00:00",34.6,-87.7,30,1004,"ENE at 15 MPH","Post-Tropical Cyclone",Delta,"2020-10-11 04:50:53",Hurley
+28,"2020-10-11 16:00:00",35.2,-86.5,25,1005,"NE at 16 MPH","Post-Tropical Cyclone",Delta,"2020-10-11 10:38:34",Roth
+29,"2020-10-11 22:00:00",35.4,-85.5,25,1007,"ENE at 14 MPH","Post-Tropical Cyclone",Delta,"2020-10-11 16:47:45",Roth
+30,"2020-10-12 04:00:00",34.5,-84.1,15,1008,"E at 15 MPH","Post-Tropical Cyclone",Delta,"2020-10-11 22:56:45",Hurley
